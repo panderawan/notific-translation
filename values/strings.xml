@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Notific</string>
+    <string-array name="theme_names">
+        <item>NotifyMe legacy</item>
+        <item>Android Wear</item>
+    </string-array>
+
+    <string-array name="transparency">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="sensor_delay">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="about_dialog_header"><b>Notific 2.10 (TEST) </b></string>
+
+
+    <!--================================================-->
+
+    <!--Translatable strings-->
+    <!--From here-->
+
+    <string name="title_section1">Dashboard</string>
+    <string name="title_section2">Blacklist</string>
+    <string name="title_section3">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="service_name">NotificationService</string>
+    <string name="view_notification">View</string>
+    <string name="dismiss_notification">Dismiss</string>
+
+    <string name="main_menu_popup_timeout_title">Screen timeout</string>
+    <string name="main_menu_popup_timeout_description">Time in seconds that the screen will stay on. Leave blank or zero for system default</string>
+    <string name="main_menu_popup_proximity_title">Proximity sensor timeout</string>
+    <string name="main_menu_popup_proximity_description">How long proximity sensor will be active for pocket mode. Leave blank for default 10sec.</string>
+    <string name="main_menu_popup_orientation_title">Lock orientation</string>
+    <string name="main_menu_popup_orientation_description">Don\'t change orientation of the popup when the device gets tilted.</string>
+
+
+    <string name="about_dialog">\n\n<i>Designed and developed by :</i>
+        \nAnanda Bibek Ray.
+        \n\nFor more details and help, go to any link provided in buttons below
+    </string>
+
+
+    <string name="free_version">Blacklist/Whitelist function is not available in the free version of Notific. Please upgrade to the paid version to use this facility and to encourage me to make the app more awesome.
+        \n\nThanks for using Notific.</string>
+
+    <string name="warning_blacklist">You are changing the mode to Blacklist. In this mode, you will get notific popups for ALL apps, EXCEPT the ones you have marked.
+        \n\nDO NOT mark those apps for which you want to get popups.</string>
+
+    <string name="warning_whitelist">You are changing the mode to Whitelist. In this mode, you will get notific popups for ONLY the apps you have marked.
+        \n\nREMEMBER TO MARK those apps for which you want to get popups.</string>
+
+    <string name="warning_test_white">It looks like you have turned on \"Whitelist mode\". In this mode, you will get notific popups for ONLY the apps you have marked.
+        \n\nIf you want TEST function to work, you will have to mark Notific in whitelist setting. </string>
+
+    <string name="warning_test_black">It looks like you have blacklisted Notific.
+        \n\nIf you want TEST function to work, you will have to unmark Notific in blacklist setting. </string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="handle_lowPriority">Show low priority notifications</string>
+    <string name="handle_lowPriority_msg">For example, Google Now weather cards</string>
+    <string name="expanded_title">Show notifications expanded</string>
+    <string name="expanded_msg">Show notifications\' quick action buttons if available</string>
+    <string name="sensor_settings_header">Sensor settings</string>
+    <string name="screenOn_title">Turn screen on</string>
+    <string name="screenOn_msg">Screen will light up for new notifications</string>
+    <string name="pocket_title">Enable pocket mode</string>
+    <string name="pocket_msg">Screen will turn on only after taken out of pocket by checking proximity sensor</string>
+    <string name="orientation_title">Lock popup to portrait</string>
+    <string name="theme_header">Theme settings</string>
+    <string name="select_theme">Select theme</string>
+    <string name="wall_brightness_title">Wallpaper brightness</string>
+    <string name="wall_brightness_msg">Set 0 for full black</string>
+    <string name="slider_padding_title">Slider left/right padding</string>
+    <string name="slider_padding_msg">Increase value (in dp) to decrease slider width. Zero or blank for default</string>
+    <string name="immersive_title">Configure immersive mode</string>
+    <string name="immersive_msg">Choose which system bars to hide</string>
+    <string name="troubleshoot_header">Troubleshooting options</string>
+    <string name="alt_popup_title">Alternate popup mechanism</string>
+    <string name="alt_popup_msg">Recommended for better stability, but popup will appear little late.</string>
+    <string name="calibration_enable">Use custom sensor calibration</string>
+    <string name="calibration_msg">Use this if you are having problems with pocket mode</string>
+    <string name="calibrate_option">Calibrate sensor</string>
+    <string name="sensor_delay">Sensor polling delay</string>
+    <string name="sensor_delay_msg">Increase the value if proximity sensor is not working even after calibration</string>
+    <string name="warning">Warning</string>
+    <string name="go_blacklist">Go to Blacklist settings</string>
+    <string name="test_title_1">Test notification 1</string>
+    <string name="test_body_1">Mr. Jingles says Hi!</string>
+    <string name="action1">Action 1</string>
+    <string name="action2">Action 2</string>
+    <string name="test_title_2">Test notification 2</string>
+    <string name="test_body_2">Mr. Jingles says Hi! Again!!</string>
+    <string name="quick_action">QuickAction</string>
+    <string name="free">Free version</string>
+    <string name="play_store">Upgrade from Play Store</string>
+
+
+    <string-array name="immersive_mode">
+        <item>Disabled</item>
+        <item>Hide navigation bar</item>
+        <item>Hide status bar</item>
+        <item>Hide both</item>
+    </string-array>
+
+</resources>
