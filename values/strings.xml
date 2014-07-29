@@ -29,7 +29,7 @@
         <item>3</item>
     </string-array>
 
-    <string name="about_dialog_header"><b>Notific 2.10 (TEST) </b></string>
+    <string name="about_dialog_header"><b>Notific 2.20 (TEST) </b></string>
 
 
     <!--================================================-->
@@ -116,6 +116,23 @@
     <string name="quick_action">QuickAction</string>
     <string name="free">Free version</string>
     <string name="play_store">Upgrade from Play Store</string>
+    <string name="display_mode_title">Show popups when</string>
+    <string name="permission_text">Click here to configure permissions</string>
+    <string name="screenlock_permission_text">Click here to configure screen lock permission</string>
+    <string name="notif_access_grant">Notification access granted</string>
+    <string name="notif_access_not_grant">Notification access not granted</string>
+    <string name="service_active">Background service is active</string>
+    <string name="service_inactive">Background service is not running</string>
+    <string name="working_correct">Application is working correctly</string>
+    <string name="permission_again">Give permission again or reboot device</string>
+    <string name="perm_not_grant">Notification access permission not granted</string>
+    <string name="lock_perm_ok">Screen lock permission granted</string>
+    <string name="lock_permission_not_grant">Screen lock permission not granted</string>
+    <string name="lock_msg_1">Required for screen lock</string>
+    <string name="lock_msg_2">For Notific to automatically lock the screen on last notification dismiss</string>
+    <string name="lock_msg_big">Required for Notific to automatically lock the screen when you dismiss last notification in list</string>
+    <string name="blacklist_mode">Whitelist mode</string>
+    <string name="whitelist_mode">Blacklist mode</string>
 
 
     <string-array name="immersive_mode">
@@ -123,6 +140,13 @@
         <item>Hide navigation bar</item>
         <item>Hide status bar</item>
         <item>Hide both</item>
+    </string-array>
+
+    <string-array name="display_mode">
+        <item>Screen off OR on lockscreen</item>
+        <item>Screen off</item>
+        <item>On lockscreen</item>
+        <item>Screen off AND on lockscreen</item>
     </string-array>
 
 </resources>
