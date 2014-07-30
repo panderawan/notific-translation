@@ -134,6 +134,10 @@
     <string name="lock_msg_big">Notific sperrt automatisch den Bildschirm wenn Sie die Benachrichtigungsliste verwerfen</string>
     <string name="blacklist_mode">Whitelist Modus</string>
     <string name="whitelist_mode">Blacklist Modus</string>
+    <string name="night_title">Enable Night mode</string>
+    <string name="night_msg">Notific won\'t be active during given time</string>
+    <string name="night_start">Night mode starts from</string>
+    <string name="night_end">Night mode ends at</string>
 
 
     <string-array name="immersive_mode">

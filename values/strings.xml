@@ -133,6 +133,10 @@
     <string name="lock_msg_big">Required for Notific to automatically lock the screen when you dismiss last notification in list</string>
     <string name="blacklist_mode">Whitelist mode</string>
     <string name="whitelist_mode">Blacklist mode</string>
+    <string name="night_title">Enable Night mode</string>
+    <string name="night_msg">Notific won\'t be active during given time</string>
+    <string name="night_start">Night mode starts from</string>
+    <string name="night_end">Night mode ends at</string>
 
 
     <string-array name="immersive_mode">
