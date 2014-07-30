@@ -120,18 +120,18 @@
     <string name="display_mode_title">Zeige Popups wenn</string>
     <string name="permission_text">Klicken Sie hier, um die Berechtigungen zu konfigurieren</string>
     <string name="screenlock_permission_text">Klicken Sie hier, um die Sperrbildschirmberechtigungen zu konfigurieren</string>
-    <string name="notif_access_grant">Notification access granted</string>
-    <string name="notif_access_not_grant">Notification access not granted</string>
-    <string name="service_active">Background service is active</string>
-    <string name="service_inactive">Background service is not running</string>
-    <string name="working_correct">Application is working correctly</string>
-    <string name="permission_again">Give permission again or reboot device</string>
-    <string name="perm_not_grant">Notification access permission not granted</string>
-    <string name="lock_perm_ok">Screen lock permission granted</string>
-    <string name="lock_permission_not_grant">Screen lock permission not granted</string>
-    <string name="lock_msg_1">Required for screen lock</string>
-    <string name="lock_msg_2">For Notific to automatically lock the screen on last notification dismiss</string>
-    <string name="lock_msg_big">Required for Notific to automatically lock the screen when you dismiss last notification in list</string>
+    <string name="notif_access_grant">Benachrichtigungen werden garantiert angezeit</string>
+    <string name="notif_access_not_grant">Benachrichtigungen werden nicht garantiert angezeigt</string>
+    <string name="service_active">Hintergrundservice ist aktiv</string>
+    <string name="service_inactive">Hintergrundservice ist inaktiv</string>
+    <string name="working_correct">Die App arbeitet wie erwartet</string>
+    <string name="permission_again">Erteilen Sie die Erlaubnis erneut oder rebooten Sie ihr Gerät</string>
+    <string name="perm_not_grant">Zugriffsberechtigung für Benachrichtungen nicht erteilt</string>
+    <string name="lock_perm_ok">Zugriffsberechtigung für den Sperrbildschirm erteilt</string>
+    <string name="lock_permission_not_grant">Zugriffsberechtigung für den Sperrbildschirm nicht erteilt</string>
+    <string name="lock_msg_1">Erforderlich für die Bildschirmsperre</string>
+    <string name="lock_msg_2">Notific sperrt automatisch den Bildschirm wenn Sie die Benachrichtigungen verwerfen </string>
+    <string name="lock_msg_big">Notific sperrt automatisch den Bildschirm wenn Sie die Benachrichtigungsliste verwerfen</string>
     <string name="blacklist_mode">Whitelist Modus</string>
     <string name="whitelist_mode">Blacklist Modus</string>
 
@@ -144,10 +144,10 @@
   </string-array>
 
     <string-array name="display_mode">
-        <item>Screen off OR on lockscreen</item>
-        <item>Screen off</item>
-        <item>On lockscreen</item>
-        <item>Screen off AND on lockscreen</item>
+        <item>Bildschirm aus oder auf den Sperrbildschirm</item>
+        <item>Bildschirm aus</item>
+        <item>Auf den Sperrbildschirm</item>
+        <item>Bildschirm aus und auf den Sperrbildschirm</item>
     </string-array>
 
 </resources>
