@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Notific</string>
+    <string-array name="theme_names">
+        <item>NotifyMe legacy</item>
+        <item>Android Wear</item>
+    </string-array>
+
+    <string-array name="transparency">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="sensor_delay">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="about_dialog_header"><b>Notific 2.20 (TEST) </b></string>
+
+
+    <!--================================================-->
+
+    <!--Translatable strings-->
+    <!--From here-->
+
+    <string name="title_section1">Dashboard</string>
+    <string name="title_section2">Blacklist</string>
+    <string name="title_section3">Einstellungen</string>
+    <string name="navigation_drawer_open">Öffne die Navigationsleiste</string>
+    <string name="navigation_drawer_close">Schließe die Navigationsleiste</string>
+    <string name="action_example">Test</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="help">Hilfe</string>
+    <string name="about">Über</string>
+    <string name="service_name">Benachrichtigungs Service</string>
+    <string name="view_notification">Ansicht</string>
+    <string name="dismiss_notification">Verwerfen</string>
+
+    <string name="main_menu_popup_timeout_title">Bildschirm timeout</string>
+    <string name="main_menu_popup_timeout_description">Zeit in Sekunden die der Bildschirm an bleibt. Ohne Eintrag oder Null für den System Standard</string>
+    <string name="main_menu_popup_proximity_title">Annäherungssensor timeout</string>
+    <string name="main_menu_popup_proximity_description">Bestimmt wie lange der Annäherungssensor für den Taschen Modus aktiv bleibt. Ohne Eintrag lassen für den Standard von 10 Sekunden.</string>
+    <string name="main_menu_popup_orientation_title">Sperrbildschirm Ausrichtung</string>
+    <string name="main_menu_popup_orientation_description">Ändert nicht die Ausrichtung des Popup wenn das Gerät gedreht wird.</string>
+
+
+    <string name="about_dialog">\n\n<i>Designed und entwickelt von:</i>
+        \nAnanda Bibek Ray.
+        \n\nFür mehr Details und Hilfe, klicken Sie bitte auf den Knopf unten
+    </string>
+
+    <string name="free_version">Blacklist/Whitelist Funktion ist nicht verfügbar in der kostenlosen Version von Notific. Bitte upgraden Sie auf die kostenpflichtige Version um diese Funktion zu nutzen, das hilft mir die App weiterzuentwickeln und zu perfektionieren.
+    \n\nDanke für das benutzen von Notific.</string>
+
+    <string name="warning_blacklist">Sie ändern den Modus zur Blacklist. In diesem Modus bekommen Sie Benachrichtigungs Popups von ALLEN Apps, außer von denen die Sie mit einem Hacken makiert haben.
+    \n\nMakiereNICHT die Apps von denen Sie Popup Benachrichtugen bekommen möchten.</string>
+
+    <string name="warning_whitelist">Sie ändern den Modus zur Whitelist. In diesem Modus erhalten Sie nur Benachrichtigungs Popups von Apps welche mit einem Hacken makiert sind.
+    \n\nVergessen Sie nicht die Apps zu makieren von denen Sie Popups erhalten möchten.</string>
+
+    <string name="warning_test_white">Es sieht aus als hätten Sie den \"Whitelist Modus\" aktiviert. In diesem Modus, zeigt Notific nur Popups von Apps welche Sie makiert haben.
+        \n\nWenn Sie die Funktionen testen wollen, müssen sie in Notific den Blacklist Modus auswählen. </string>
+
+    <string name="warning_test_black">Es sieht aus als hätten sie den Blacklist Modus aktiviert.
+        \n\nWenn Sie die Funktionen testen wollen, müssen sie in Notific den Blacklist Modus auswählen. </string>
+    <string name="notification_settings">Benachrichtungs Einstellungen</string>
+    <string name="handle_lowPriority">Zeige auch Popups von niedriger Priorität</string>
+    <string name="handle_lowPriority_msg">Zum Beispiel die Google Now Wetter Karte</string>
+    <string name="expanded_title">Zeige erweiterte Benachrichtungs Popups</string>
+    <string name="expanded_msg">Ziege bei der Benachrichtigung schnell aktions Knöpfe, wenn diese verfügbar sind</string>
+    <string name="sensor_settings_header">Sensor Einstellungen</string>
+    <string name="screenOn_title">Schalte den Bildschirm an</string>
+    <string name="screenOn_msg">Der Bildschirm wird aufleuchten, wenn es neue Benachrichtigungen gibt</string>
+    <string name="pocket_title">Aktiviere den Taschen Modus</string>
+    <string name="pocket_msg">Der Bildschirm wird aufleuchten nach dem das gerät aus der Tasche genommen wird, durch kontrollieren des Näherungssesors.</string>
+    <string name="orientation_title">Popup wird nur im Hochformat angezeigt</string>
+    <string name="theme_header">Theme Einstellungens</string>
+    <string name="select_theme">Wähle ein Theme</string>
+    <string name="wall_brightness_title">Einstellungen zum Hintergrundbild</string>
+    <string name="wall_brightness_msg">Stelle 0 ein für komplett Schwarz</string>
+    <string name="slider_padding_title">Bewegungsspanne des Sliders</string>
+    <string name="slider_padding_msg">Erhöhe den Wert (in dp) um den Weg zu verkürzen, leer lassen oder null für System Standard</string>
+    <string name="immersive_title">Einstellungen der Anzeige</string>
+    <string name="immersive_msg">Wähle welche Systembalken ausgeblendet werden</string>
+    <string name="troubleshoot_header">Fehlerbeheungs Optionen</string>
+    <string name="alt_popup_title">Alternativer Popup Mechanismus</string>
+    <string name="alt_popup_msg">Empfohlen für bessere Stabilität, aber das Popup erscheint verzögert.</string>
+    <string name="calibration_enable">Verwenden Sie die benutzerdefinierte Sensorkalibrierung</string>
+    <string name="calibration_msg">Benutzen Sie das, wenn sie Probleme mit dem Taschen Modus haben</string>
+    <string name="calibrate_option">Sensorkalibrierung<string>
+    <string name="sensor_delay">Sensor Abfrageverzögerung</string>
+    <string name="sensor_delay_msg">Erhöhen Sie den Wert, wenn der Näherungssensor nach der Kalibrierung nicht arbeitet</string>
+    <string name="warning">Warnung</string>
+    <string name="go_blacklist">Gehen Sie zur Blacklist Einstellung</string>
+    <string name="test_title_1">Test Benachrichtigung 1</string>
+    <string name="test_body_1">Herr Jingles sagt Hi!</string>
+    <string name="action1">Aktion 1</string>
+    <string name="action2">Aktion 2</string>
+    <string name="test_title_2">Test Benachrichtigung 2</string>
+    <string name="test_body_2">Herr Jingles sagt nochmal Hi!!</string>
+    <string name="quick_action">Schnell Aktion</string>
+    <string name="free">Kostenlose Version</string>
+    <string name="play_store">Upgrade vom Google Play Store</string>
+
+
+    <string name="display_mode_title">Zeige Popups wenn</string>
+    <string name="permission_text">Klicken Sie hier, um die Berechtigungen zu konfigurieren</string>
+    <string name="screenlock_permission_text">Klicken Sie hier, um die Sperrbildschirmberechtigungen zu konfigurieren</string>
+    <string name="notif_access_grant">Benachrichtigungen werden garantiert angezeit</string>
+    <string name="notif_access_not_grant">Benachrichtigungen werden nicht garantiert angezeigt</string>
+    <string name="service_active">Hintergrundservice ist aktiv</string>
+    <string name="service_inactive">Hintergrundservice ist inaktiv</string>
+    <string name="working_correct">Die App arbeitet wie erwartet</string>
+    <string name="permission_again">Erteilen Sie die Erlaubnis erneut oder rebooten Sie ihr Gerät</string>
+    <string name="perm_not_grant">Zugriffsberechtigung für Benachrichtungen nicht erteilt</string>
+    <string name="lock_perm_ok">Zugriffsberechtigung für den Sperrbildschirm erteilt</string>
+    <string name="lock_permission_not_grant">Zugriffsberechtigung für den Sperrbildschirm nicht erteilt</string>
+    <string name="lock_msg_1">Erforderlich für die Bildschirmsperre</string>
+    <string name="lock_msg_2">Notific sperrt automatisch den Bildschirm wenn Sie die Benachrichtigungen verwerfen </string>
+    <string name="lock_msg_big">Notific sperrt automatisch den Bildschirm wenn Sie die Benachrichtigungsliste verwerfen</string>
+    <string name="blacklist_mode">Whitelist Modus</string>
+    <string name="whitelist_mode">Blacklist Modus</string>
+
+
+    <string-array name="immersive_mode">
+        <item>Beides anzeigen</item>
+        <item>Navigationsleiste ausblenden</item>
+        <item>Statusleiste ausblenden</item>
+        <item>Beides ausblenden</item>
+  </string-array>
+
+    <string-array name="display_mode">
+        <item>Bildschirm aus oder auf den Sperrbildschirm</item>
+        <item>Bildschirm aus</item>
+        <item>Auf den Sperrbildschirm</item>
+        <item>Bildschirm aus und auf den Sperrbildschirm</item>
+    </string-array>
+
+</resources>
