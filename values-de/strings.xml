@@ -101,7 +101,7 @@
     <string name="alt_popup_msg">Empfohlen für bessere Stabilität, aber das Popup erscheint verzögert.</string>
     <string name="calibration_enable">Verwenden Sie die benutzerdefinierte Sensorkalibrierung</string>
     <string name="calibration_msg">Benutzen Sie das, wenn sie Probleme mit dem Taschen Modus haben</string>
-    <string name="calibrate_option">Sensorkalibrierung<string>
+    <string name="calibrate_option">Sensorkalibrierung</string>
     <string name="sensor_delay">Sensor Abfrageverzögerung</string>
     <string name="sensor_delay_msg">Erhöhen Sie den Wert, wenn der Näherungssensor nach der Kalibrierung nicht arbeitet</string>
     <string name="warning">Warnung</string>
