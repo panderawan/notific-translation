@@ -60,14 +60,14 @@
 
     <string name="about_dialog">\n\n<i>Designed und entwickelt von:</i>
         \nAnanda Bibek Ray.
-        \n\nFür mehr Details und Hilfe, klicken Sie bitte auf den Knopf unten
-    </string>
+        \n\nFür mehr Details und Hilfe, klicken Sie bitte auf einen der Knöpfe unten
+        </string>
 
     <string name="free_version">Blacklist/Whitelist Funktion ist nicht verfügbar in der kostenlosen Version von Notific. Bitte upgraden Sie auf die kostenpflichtige Version um diese Funktion zu nutzen, das hilft mir die App weiterzuentwickeln und zu perfektionieren.
     \n\nDanke für das benutzen von Notific.</string>
 
     <string name="warning_blacklist">Sie ändern den Modus zur Blacklist. In diesem Modus bekommen Sie Benachrichtigungs Popups von ALLEN Apps, außer von denen die Sie mit einem Hacken makiert haben.
-    \n\nMakiereNICHT die Apps von denen Sie Popup Benachrichtugen bekommen möchten.</string>
+    \n\nMakiere NICHT die Apps von denen Sie Popup Benachrichtugen bekommen möchten.</string>
 
     <string name="warning_whitelist">Sie ändern den Modus zur Whitelist. In diesem Modus erhalten Sie nur Benachrichtigungs Popups von Apps welche mit einem Hacken makiert sind.
     \n\nVergessen Sie nicht die Apps zu makieren von denen Sie Popups erhalten möchten.</string>
@@ -134,10 +134,10 @@
     <string name="lock_msg_big">Notific sperrt automatisch den Bildschirm wenn Sie die Benachrichtigungsliste verwerfen</string>
     <string name="blacklist_mode">Whitelist Modus</string>
     <string name="whitelist_mode">Blacklist Modus</string>
-    <string name="night_title">Enable Night mode</string>
-    <string name="night_msg">Notific won\'t be active during given time</string>
-    <string name="night_start">Night mode starts from</string>
-    <string name="night_end">Night mode ends at</string>
+    <string name="night_title">Aktiviere den Nachtmodus</string>
+    <string name="night_msg">Im Nachtmodus wird Notific in der angegebenen Zeit nicht aktiv</string>
+    <string name="night_start">Der Nachtmodus beginnt um</string>
+    <string name="night_end">Der Nachtmodus endet um</string>
 
 
     <string-array name="immersive_mode">
