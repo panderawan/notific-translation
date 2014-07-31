@@ -45,7 +45,7 @@
     <string name="action_example">Test</string>
     <string name="action_settings">Einstellungen</string>
     <string name="help">Hilfe</string>
-    <string name="about">Über</string>
+    <string name="about">Informationen</string>
     <string name="service_name">Benachrichtigungs Service</string>
     <string name="view_notification">Ansicht</string>
     <string name="dismiss_notification">Verwerfen</string>
@@ -75,7 +75,7 @@
     <string name="warning_test_white">Es sieht aus als hätten Sie den \"Whitelist Modus\" aktiviert. In diesem Modus, zeigt Notific nur Popups von Apps welche Sie makiert haben.
         \n\nWenn Sie die Funktionen testen wollen, müssen sie in Notific den Blacklist Modus auswählen. </string>
 
-    <string name="warning_test_black">Es sieht aus als hätten sie den Blacklist Modus aktiviert.
+    <string name="warning_test_black">Es sieht aus als hätten sie den \"Blacklist Modus\" aktiviert.
         \n\nWenn Sie die Funktionen testen wollen, müssen sie in Notific den Blacklist Modus auswählen. </string>
     <string name="notification_settings">Benachrichtungs Einstellungen</string>
     <string name="handle_lowPriority">Zeige auch Popups von niedriger Priorität</string>
@@ -91,7 +91,7 @@
     <string name="theme_header">Theme Einstellungens</string>
     <string name="select_theme">Wähle ein Theme</string>
     <string name="wall_brightness_title">Einstellungen zum Hintergrundbild</string>
-    <string name="wall_brightness_msg">Stelle 0 ein für komplett Schwarz</string>
+    <string name="wall_brightness_msg">Stellen Sie 0 ein, für komplett Schwarz</string>
     <string name="slider_padding_title">Bewegungsspanne des Sliders</string>
     <string name="slider_padding_msg">Erhöhe den Wert (in dp) um den Weg zu verkürzen, leer lassen oder null für System Standard</string>
     <string name="immersive_title">Einstellungen der Anzeige</string>
@@ -136,8 +136,8 @@
     <string name="whitelist_mode">Blacklist Modus</string>
     <string name="night_title">Aktiviere den Nachtmodus</string>
     <string name="night_msg">Im Nachtmodus wird Notific in der angegebenen Zeit nicht aktiv</string>
-    <string name="night_start">Der Nachtmodus beginnt um</string>
-    <string name="night_end">Der Nachtmodus endet um</string>
+    <string name="night_start">Der Nachtmodus beginnt um:</string>
+    <string name="night_end">Der Nachtmodus endet um:</string>
 
 
     <string-array name="immersive_mode">
