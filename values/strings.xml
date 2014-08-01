@@ -137,6 +137,8 @@
     <string name="night_msg">Notific won\'t be active during given time</string>
     <string name="night_start">Night mode starts from</string>
     <string name="night_end">Night mode ends at</string>
+    <string name="dont_change">Don\'t change</string>
+    <string name="got_it">Got it!</string>
 
 
     <string-array name="immersive_mode">

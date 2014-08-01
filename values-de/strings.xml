@@ -138,6 +138,8 @@
     <string name="night_msg">Im Nachtmodus wird Notific in der angegebenen Zeit nicht aktiv</string>
     <string name="night_start">Der Nachtmodus beginnt um:</string>
     <string name="night_end">Der Nachtmodus endet um:</string>
+    <string name="dont_change">Don\'t change</string>
+    <string name="got_it">Got it!</string>
 
 
     <string-array name="immersive_mode">
