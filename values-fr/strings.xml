@@ -117,7 +117,7 @@
     <string name="free">Version gratuite</string>
     <string name="play_store">Mise a niveau via le Play Store</string>
     <string name="display_mode_title">Afficher popup quand</string>
-    <string name="permission_text">Cliquer ici pour configurer les permissions./string>
+    <string name="permission_text">Cliquer ici pour configurer les permissions.</string>
     <string name="screenlock_permission_text">Cliquez ici pour configurer la permission de l'écran de verrouilage </string>
     <string name="notif_access_grant">Accés au notification accordés </string>
     <string name="notif_access_not_grant">Accés au notifications pas accordés</string>
@@ -137,6 +137,14 @@
     <string name="night_msg"> Notific ne sera pas actif pendant le temps donné</string>
     <string name="night_start">Le mode nuit commence à :</string>
     <string name="night_end">Le mode nuit finis à :</string>
+    <string name="dont_change">Don\'t change</string>
+    <string name="got_it">Got it!</string>
+    <string name="developer">Developer</string>
+    <string name="links">Links</string>
+    <string name="credits">Credits</string>
+    <string name="translators">Translations by:
+    \n\nGerman : Christoph Seelbach
+    \n\nFrench : Antoine Thenaisy</string>
 
 
     <string-array name="immersive_mode">

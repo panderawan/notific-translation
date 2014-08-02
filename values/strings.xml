@@ -7,7 +7,6 @@
         <item>NotifyMe legacy</item>
         <item>Android Wear</item>
     </string-array>
-
     <string-array name="transparency">
         <item>0</item>
         <item>10</item>
@@ -21,7 +20,6 @@
         <item>90</item>
         <item>100</item>
     </string-array>
-
     <string-array name="sensor_delay">
         <item>0</item>
         <item>1</item>
@@ -29,7 +27,7 @@
         <item>3</item>
     </string-array>
 
-    <string name="about_dialog_header"><b>Notific 2.20 (TEST) </b></string>
+    <string name="about_dialog_header">Notific 2.20 (TEST)</string>
 
 
     <!--================================================-->
@@ -56,14 +54,8 @@
     <string name="main_menu_popup_proximity_description">How long proximity sensor will be active for pocket mode. Leave blank for default 10sec.</string>
     <string name="main_menu_popup_orientation_title">Lock orientation</string>
     <string name="main_menu_popup_orientation_description">Don\'t change orientation of the popup when the device gets tilted.</string>
-
-
-    <string name="about_dialog">\n\n<i>Designed and developed by :</i>
-        \nAnanda Bibek Ray.
-        \n\nFor more details and help, go to any link provided in buttons below
-    </string>
-
-
+    <string name="about_dialog"><i>Designed and developed by :</i>         \nAnanda Bibek Ray.
+        \n\nFor more details and help, go to any link provided in buttons below</string>
     <string name="free_version">Blacklist/Whitelist function is not available in the free version of Notific. Please upgrade to the paid version to use this facility and to encourage me to make the app more awesome.
         \n\nThanks for using Notific.</string>
 
@@ -139,6 +131,12 @@
     <string name="night_end">Night mode ends at</string>
     <string name="dont_change">Don\'t change</string>
     <string name="got_it">Got it!</string>
+    <string name="developer">Developer</string>
+    <string name="links">Links</string>
+    <string name="credits">Credits</string>
+    <string name="translators">Translations by:
+    \n\nGerman : Christoph Seelbach
+    \n\nFrench : Antoine Thenaisy</string>
 
 
     <string-array name="immersive_mode">
