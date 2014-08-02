@@ -50,22 +50,22 @@
     <string name="view_notification">Apercu</string>
     <string name="dismiss_notification">Ecarter</string>
 
-    <string name="main_menu_popup_timeout_title">Veille de l'écran</string>
-    <string name="main_menu_popup_timeout_description">Temps en seconde ou l'écran reste allumé. Laissez champ vide ou nulle pour appliquer paramètre par défault.</string>
+    <string name="main_menu_popup_timeout_title">Veille de l\'écran</string>
+    <string name="main_menu_popup_timeout_description">Temps en seconde ou l\'écran reste allumé. Laissez champ vide ou nulle pour appliquer paramètre par défault.</string>
     <string name="main_menu_popup_proximity_title">Delai du capteur de proximité</string>
     <string name="main_menu_popup_proximity_description"> Combien de temps le capteur de proximité sera actif en mode "poche". Laissez ce champ vide pour 10sec par défault. </string>
-    <string name="main_menu_popup_orientation_title">Verrouiller l'orientation</string>
-    <string name="main_menu_popup_orientation_description">Ne pas modifier l'orientation de la fenêtre lors du changement d'orientation de l'écran.</string>
+    <string name="main_menu_popup_orientation_title">Verrouiller l\'orientation</string>
+    <string name="main_menu_popup_orientation_description">Ne pas modifier l\'orientation de la fenêtre lors du changement d\'orientation de l\'écran.</string>
 
 
     <string name="about_dialog">\n\n<i>Conçu et développé par:</i>
         \nAnanda Bibek Ray.
-        \n\nPour plus d'informations et pour obtenir de l'aide, voir lien ci desssous. 
+        \n\nPour plus d\'informations et pour obtenir de l\'aide, voir lien ci desssous.
     </string>
 
 
-    <string name="free_version">Liste noire / Liste blanche cette fonction n'est pas disponible dans la version gratuite de Notific. S'il vous plaît mettez à niveau vers la version payante pour utiliser cette fonction et pour m'encourager à faire progresser votre application préférée.
-        \n\nMerci d'utiliser Notific.</string>
+    <string name="free_version">Liste noire / Liste blanche cette fonction n\'est pas disponible dans la version gratuite de Notific. S\'il vous plaît mettez à niveau vers la version payante pour utiliser cette fonction et pour m\'encourager à faire progresser votre application préférée.
+        \n\nMerci d\'utiliser Notific.</string>
 
     <string name="warning_blacklist"> Créer votre propre liste noire. Dans ce mode, vous obtiendrez la notification Notific popup pour TOUTES les applications, SAUF ceux que vous avez marqués. 
         \n\nNE COCHER pas les applications dont vous voulez recevoir des notifications.</string>
@@ -73,25 +73,25 @@
     <string name="warning_whitelist">Créer votre propre liste blanche. Dans ce mode, vous obtiendrez la notification Notific popup UNIQUEMENT pour ceux que vous avez marqués.
         \n\nCOCHER IMPERATIVEMENT les applications dont vous voulez recevoir des notifications.</string>
 
-    <string name="warning_test_white"> Vous venez d'activer votre \"liste blanche\". Avec ce mode, vous obtiendrez la notification Notific popup uniquement pour les applications que vous avez marqués.
+    <string name="warning_test_white"> Vous venez d\'activer votre \"liste blanche\". Avec ce mode, vous obtiendrez la notification Notific popup uniquement pour les applications que vous avez marqués.
         \n\nSi vous voulez que la fonction TEST fonctionne, vous devrez cocher Notific dans votre liste blanche. </string>
 
-    <string name="warning_test_black">Vous venez d'activer votre \"liste noire\".
+    <string name="warning_test_black">Vous venez d\'activer votre \"liste noire\".
         \n\nSi vous voulez que la fonction TEST fonctionne, vous devrez decocher Notific dans votre liste noire. </string>
     <string name="notification_settings">Paramètre de notification</string>
     <string name="handle_lowPriority">Afficher les notifications moins importantes</string>
     <string name="handle_lowPriority_msg">Comme par exemple, les notifications Google Now</string>
     <string name="expanded_title">Afficher les notifications élargies</string>
-    <string name="expanded_msg">Afficher les notifications \ 'boutons d'action rapide si disponible</string>
+    <string name="expanded_msg">Afficher les notifications \'boutons d\'action rapide si disponible</string>
     <string name="sensor_settings_header">Réglages du capteur de proximité</string>
-    <string name="screenOn_title">Allumer l'écran</string>
-    <string name="screenOn_msg">Allumer l'écran à la réception d'une nouvelle notification</string>
+    <string name="screenOn_title">Allumer l\'écran</string>
+    <string name="screenOn_msg">Allumer l\'écran à la réception d\'une nouvelle notification</string>
     <string name="pocket_title">Activer le mode "poche"</string>
-    <string name="pocket_msg">Ecran s'allume automatiquement lors de la sortie de la poche</string>
+    <string name="pocket_msg">Ecran s\'allume automatiquement lors de la sortie de la poche</string>
     <string name="orientation_title">Verrouiller le popup en mode portrait</string>
     <string name="theme_header">Configuration du theme</string>
     <string name="select_theme">Selection du theme</string>
-    <string name="wall_brightness_title">Luminosité du fond d'écran</string>
+    <string name="wall_brightness_title">Luminosité du fond d\'écran</string>
     <string name="wall_brightness_msg">Mettre 0 pour mettre en noir</string>
     <string name="slider_padding_title">Glisser a gauche/droite pour remplissage</string>
     <string name="slider_padding_msg">Augmenter la valeur (en dp) pour réduire la largeur du curseur. Zéro ou vide par défault</string>
@@ -118,19 +118,19 @@
     <string name="play_store">Mise a niveau via le Play Store</string>
     <string name="display_mode_title">Afficher popup quand</string>
     <string name="permission_text">Cliquer ici pour configurer les permissions.</string>
-    <string name="screenlock_permission_text">Cliquez ici pour configurer la permission de l'écran de verrouilage </string>
+    <string name="screenlock_permission_text">Cliquez ici pour configurer la permission de l\'écran de verrouilage </string>
     <string name="notif_access_grant">Accés au notification accordés </string>
     <string name="notif_access_not_grant">Accés au notifications pas accordés</string>
     <string name="service_active">Services en arrieres plan activés</string>
     <string name="service_inactive">Services en arrieres plan ne fonctionne pas</string>
-    <string name="working_correct">L'application fonctionne correctement</string>
-    <string name="permission_again">Vérifier et redonner les permissions ou redémarrer l'appareil</string>
+    <string name="working_correct">L\'application fonctionne correctement</string>
+    <string name="permission_again">Vérifier et redonner les permissions ou redémarrer l\'appareil</string>
     <string name="perm_not_grant">Accés au notifications autorisés</string>
-    <string name="lock_perm_ok">Accés à l'écran de verrouillage autorisé</string>
-    <string name="lock_permission_not_grant">Accés à l'écran de verrouillage non autorisé</string>
-    <string name="lock_msg_1">Requis pour l'ecran verrouillé</string>
-    <string name="lock_msg_2"> Pour que Notific verrouille automatiquement l'écran a la dernière notification rejeter</string>
-    <string name="lock_msg_big">Requis pour que Notific verrouille automatiquement l'écran lorsque vous fermez la dernière notification dans la liste</string>
+    <string name="lock_perm_ok">Accés à l\'écran de verrouillage autorisé</string>
+    <string name="lock_permission_not_grant">Accés à l\'écran de verrouillage non autorisé</string>
+    <string name="lock_msg_1">Requis pour l\'ecran verrouillé</string>
+    <string name="lock_msg_2"> Pour que Notific verrouille automatiquement l\'écran a la dernière notification rejeter</string>
+    <string name="lock_msg_big">Requis pour que Notific verrouille automatiquement l\'écran lorsque vous fermez la dernière notification dans la liste</string>
     <string name="blacklist_mode">Liste blanche</string>
     <string name="whitelist_mode">Liste noir</string>
     <string name="night_title">Activer mode de nuit</string>
