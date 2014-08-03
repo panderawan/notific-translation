@@ -45,7 +45,7 @@
     <string name="action_example">Test</string>
     <string name="action_settings">Einstellungen</string>
     <string name="help">Hilfe</string>
-    <string name="about">Informationen</string>
+    <string name="about">Informationen zur App</string>
     <string name="service_name">Benachrichtigungs Service</string>
     <string name="view_notification">Ansicht</string>
     <string name="dismiss_notification">Verwerfen</string>
@@ -58,7 +58,7 @@
     <string name="main_menu_popup_orientation_description">Ändert nicht die Ausrichtung des Popup wenn das Gerät gedreht wird.</string>
 
 
-    <string name="about_dialog"><i>Designed und entwickelt von:</i>
+    <string name="about_dialog"><i>Gestaltet und entwickelt von:</i>
         \nAnanda Bibek Ray.
         \n\nFür mehr Details und Hilfe, klicken Sie bitte auf einen der Knöpfe unten
         </string>
@@ -86,7 +86,7 @@
     <string name="screenOn_title">Schalte den Bildschirm an</string>
     <string name="screenOn_msg">Der Bildschirm wird aufleuchten, wenn es neue Benachrichtigungen gibt</string>
     <string name="pocket_title">Aktiviere den Taschen Modus</string>
-    <string name="pocket_msg">Der Bildschirm wird aufleuchten nach dem das gerät aus der Tasche genommen wird, durch kontrollieren des Näherungssesors.</string>
+    <string name="pocket_msg">Der Bildschirm wird aufleuchten nach dem das Gerät aus der Tasche genommen wird, durch kontrollieren des Näherungssesors.</string>
     <string name="orientation_title">Popup wird nur im Hochformat angezeigt</string>
     <string name="theme_header">Theme Einstellungens</string>
     <string name="select_theme">Wähle ein Theme</string>
@@ -138,14 +138,14 @@
     <string name="night_msg">Im Nachtmodus wird Notific in der angegebenen Zeit nicht aktiv</string>
     <string name="night_start">Der Nachtmodus beginnt um:</string>
     <string name="night_end">Der Nachtmodus endet um:</string>
-    <string name="dont_change">Don\'t change</string>
-    <string name="got_it">Got it!</string>
-    <string name="developer">Developer</string>
+    <string name="dont_change">Nicht ändern</string>
+    <string name="got_it">Ändern</string>
+    <string name="developer">Entwickler</string>
     <string name="links">Links</string>
     <string name="credits">Credits</string>
-    <string name="translators">Translations by:
-    \n\nGerman : Christoph Seelbach
-    \n\nFrench : Antoine Thenaisy</string>
+    <string name="translators">Übersetzungen von:
+    \n\nDeutsch : Christoph Seelbach
+    \n\nFranzösisch : Antoine Thenaisy</string>
 
 
     <string-array name="immersive_mode">
