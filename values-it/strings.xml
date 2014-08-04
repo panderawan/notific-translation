@@ -27,8 +27,6 @@
         <item>3</item>
     </string-array>
 
-    <string name="about_dialog_header">Notific 2.20 (TEST)</string>
-
 
     <!--================================================-->
 
@@ -57,7 +55,7 @@
     <string name="about_dialog"><i>Progettata e creata da :</i>         \nAnanda Bibek Ray.
         \n\nPer maggiori dettagli e informazioni premi uno dei link sottostanti</string>
     <string name="free_version">La modalità Lista nera/Lista bianca non è disponibile nella versione gratuita di Notific. Per favore acquista la versione a pagamento per usare questa opzione e per incoraggiare a rendere l\'app migliore.
-        \n\nGrazie d'aver utilizzato Notific.</string>
+        \n\nGrazie d\'aver utilizzato Notific.</string>
 
     <string name="warning_blacklist">Stai per cambiare la modalità in lista nera. In questa modalità riceverai un popup per TUTTE le app, ECCETTO quelle che hai spuntato.
         \n\nNON SPUNTARE app da cui vuoi ricevere un popup.</string>
@@ -122,7 +120,7 @@
     <string name="lock_permission_not_grant">Permessi di blocco schermo non concessi</string>
     <string name="lock_msg_1">Richiesti per bloccare lo schermo</string>
     <string name="lock_msg_2">Servono a Notific per bloccare lo schermo automaticamente dopo che la notifica è stata ignorata</string>
-    <string name="lock_msg_big">Servono a Notific per bloccare lo schermo automaticamente dopo che l'ultima notifica nella lista è stata ignorata</string>
+    <string name="lock_msg_big">Servono a Notific per bloccare lo schermo automaticamente dopo che l\'ultima notifica nella lista è stata ignorata</string>
     <string name="blacklist_mode">Modalità lista bianca</string>
     <string name="whitelist_mode">Modalità lista nera</string>
     <string name="night_title">Abilita modalità notturna</string>
