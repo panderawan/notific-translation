@@ -27,7 +27,7 @@
         <item>3</item>
     </string-array>
 
-    <string name="about_dialog_header">Notific 2.20 (TEST)</string>
+    <string name="about_dialog_header" translatable = "false">Notific 2.21 (PAID)</string>
 
 
     <!--================================================-->
