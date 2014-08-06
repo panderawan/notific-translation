@@ -45,11 +45,11 @@
     <string name="help">Aide</string>
     <string name="about">A propos</string>
     <string name="service_name">Centre de notification</string>
-    <string name="view_notification">Apercu</string>
+    <string name="view_notification">Aperçu</string>
     <string name="dismiss_notification">Ecarter</string>
 
     <string name="main_menu_popup_timeout_title">Veille de l\'écran</string>
-    <string name="main_menu_popup_timeout_description">Temps en seconde ou l\'écran reste allumé. Laissez champ vide ou nulle pour appliquer paramètre par défault.</string>
+    <string name="main_menu_popup_timeout_description">Temps en seconde ou l\'écran reste allumé. Laissez ce champ vide ou nul pour appliquer les paramètre par défault.</string>
     <string name="main_menu_popup_proximity_title">Delai du capteur de proximité</string>
     <string name="main_menu_popup_proximity_description"> Combien de temps le capteur de proximité sera actif en mode "poche". Laissez ce champ vide pour 10sec par défault. </string>
     <string name="main_menu_popup_orientation_title">Verrouiller l\'orientation</string>
@@ -58,7 +58,7 @@
 
     <string name="about_dialog">\n\n<i>Conçu et développé par:</i>
         \nAnanda Bibek Ray.
-        \n\nPour plus d\'informations et pour obtenir de l\'aide, voir lien ci desssous.
+        \n\nPour plus d\'informations et pour obtenir de l\'aide, voir lien ci dessous.
     </string>
 
 
@@ -68,15 +68,15 @@
     <string name="warning_blacklist"> Créer votre propre liste noire. Dans ce mode, vous obtiendrez la notification Notific popup pour TOUTES les applications, SAUF ceux que vous avez marqués. 
         \n\nNE COCHER pas les applications dont vous voulez recevoir des notifications.</string>
 
-    <string name="warning_whitelist">Créer votre propre liste blanche. Dans ce mode, vous obtiendrez la notification Notific popup UNIQUEMENT pour ceux que vous avez marqués.
+    <string name="warning_whitelist">Créer votre propre liste blanche. Dans ce mode, vous obtiendrez la notification Notific popup UNIQUEMENT pour ce que vous avez marqué.
         \n\nCOCHER IMPERATIVEMENT les applications dont vous voulez recevoir des notifications.</string>
 
-    <string name="warning_test_white"> Vous venez d\'activer votre \"liste blanche\". Avec ce mode, vous obtiendrez la notification Notific popup uniquement pour les applications que vous avez marqués.
+    <string name="warning_test_white"> Vous venez d\'activer votre \"liste blanche\". Avec ce mode, vous obtiendrez la notification Notific popup uniquement pour les applications que vous avez marqué.
         \n\nSi vous voulez que la fonction TEST fonctionne, vous devrez cocher Notific dans votre liste blanche. </string>
 
     <string name="warning_test_black">Vous venez d\'activer votre \"liste noire\".
         \n\nSi vous voulez que la fonction TEST fonctionne, vous devrez decocher Notific dans votre liste noire. </string>
-    <string name="notification_settings">Paramètre de notification</string>
+    <string name="notification_settings">Paramètres de notifications</string>
     <string name="handle_lowPriority">Afficher les notifications moins importantes</string>
     <string name="handle_lowPriority_msg">Comme par exemple, les notifications Google Now</string>
     <string name="expanded_title">Afficher les notifications élargies</string>
@@ -87,22 +87,22 @@
     <string name="pocket_title">Activer le mode "poche"</string>
     <string name="pocket_msg">Ecran s\'allume automatiquement lors de la sortie de la poche</string>
     <string name="orientation_title">Verrouiller le popup en mode portrait</string>
-    <string name="theme_header">Configuration du theme</string>
-    <string name="select_theme">Selection du theme</string>
+    <string name="theme_header">Configuration du thème</string>
+    <string name="select_theme">Selection du thème</string>
     <string name="wall_brightness_title">Luminosité du fond d\'écran</string>
     <string name="wall_brightness_msg">Mettre 0 pour mettre en noir</string>
-    <string name="slider_padding_title">Glisser a gauche/droite pour remplissage</string>
+    <string name="slider_padding_title">Glisser à gauche/droite pour remplissage</string>
     <string name="slider_padding_msg">Augmenter la valeur (en dp) pour réduire la largeur du curseur. Zéro ou vide par défault</string>
     <string name="immersive_title">Configurer mode plein écran</string>
     <string name="immersive_msg">Choisir la manière de cacher</string>
     <string name="troubleshoot_header">Options de dépannage</string>
-    <string name="alt_popup_title">Meilleur apparation du popup</string>
+    <string name="alt_popup_title">Meilleure apparation du popup</string>
     <string name="alt_popup_msg">Recommandé pour une meilleure stabilité, mais la popup apparaît un peu plus tard.</string>
     <string name="calibration_enable">Utiliser le calibrage du capteur personnalisé</string>
     <string name="calibration_msg">Utiliser cette option si vous rencontrez des problèmes avec le mode "poche"</string>
     <string name="calibrate_option">Calibrer le capteur</string>
     <string name="sensor_delay">Estimation du delai du capteur</string>
-    <string name="sensor_delay_msg">Augmenter la valeur du capteur de proximité si cella ne fonctionne pas après calibration</string>
+    <string name="sensor_delay_msg">Augmenter la valeur du capteur de proximité si cela ne fonctionne pas après calibration</string>
     <string name="warning">Attention</string>
     <string name="go_blacklist">Configurer la liste noire</string>
     <string name="test_title_1">Test de notification 1</string>
@@ -115,19 +115,19 @@
     <string name="free">Version gratuite</string>
     <string name="play_store">Mise a niveau via le Play Store</string>
     <string name="display_mode_title">Afficher popup quand</string>
-    <string name="permission_text">Cliquer ici pour configurer les permissions.</string>
+    <string name="permission_text">Cliquez ici pour configurer les permissions.</string>
     <string name="screenlock_permission_text">Cliquez ici pour configurer la permission de l\'écran de verrouilage </string>
-    <string name="notif_access_grant">Accés au notification accordés </string>
-    <string name="notif_access_not_grant">Accés au notifications pas accordés</string>
+    <string name="notif_access_grant">Accés aux notifications accordées </string>
+    <string name="notif_access_not_grant">Accés aux notifications pas accordées</string>
     <string name="service_active">Services en arrieres plan activés</string>
-    <string name="service_inactive">Services en arrieres plan ne fonctionne pas</string>
+    <string name="service_inactive">Services en arrière plan ne fonctionne pas</string>
     <string name="working_correct">L\'application fonctionne correctement</string>
     <string name="permission_again">Vérifier et redonner les permissions ou redémarrer l\'appareil</string>
-    <string name="perm_not_grant">Accés au notifications autorisés</string>
+    <string name="perm_not_grant">Accés au notifications autorisées</string>
     <string name="lock_perm_ok">Accés à l\'écran de verrouillage autorisé</string>
     <string name="lock_permission_not_grant">Accés à l\'écran de verrouillage non autorisé</string>
     <string name="lock_msg_1">Requis pour l\'ecran verrouillé</string>
-    <string name="lock_msg_2"> Pour que Notific verrouille automatiquement l\'écran a la dernière notification rejeter</string>
+    <string name="lock_msg_2"> Pour que Notific verrouille automatiquement l\'écran à la dernière notification rejetée</string>
     <string name="lock_msg_big">Requis pour que Notific verrouille automatiquement l\'écran lorsque vous fermez la dernière notification dans la liste</string>
     <string name="blacklist_mode">Liste blanche</string>
     <string name="whitelist_mode">Liste noir</string>
