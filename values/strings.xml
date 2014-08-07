@@ -136,7 +136,10 @@
     <string name="credits">Credits</string>
     <string name="translators">Translations by:
     \n\nGerman : Christoph Seelbach
-    \n\nFrench : Antoine Thenaisy</string>
+    \n\nFrench : Antoine Thenaisy
+    \n\nItalian : Roberto Darko</string>
+    <string name="blur_title">Blur background</string>
+    <string name="blur_msg">This will significantly increase memory usage</string>
 
 
     <string-array name="immersive_mode">
