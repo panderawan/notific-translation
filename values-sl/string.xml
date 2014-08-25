@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_section1">Dashboard*</string>
+    <string name="title_section2">Črna lista</string>
+    <string name="title_section3">Nastavitve</string>
+    <string name="navigation_drawer_open">Odpri navigacijski predal</string>
+    <string name="navigation_drawer_close">Zapri navigacijski predal</string>
+    <string name="action_example">Preizkusi</string>
+    <string name="action_settings">Nastavitve</string>
+    <string name="help">Pomoč</string>
+    <string name="about">O programu</string>
+    <string name="service_name">NotificationService*</string>
+    <string name="view_notification">Poglej</string>
+    <string name="dismiss_notification">Skrij</string>
+
+    <string name="main_menu_popup_timeout_title">Čas. omejitev zaslona</string>
+    <string name="main_menu_popup_timeout_description">Koliko časa v sekundah bo ostal ekran prižgan. Pusti prazno ali vnesi 0 za privzete nastavitve.</string>
+    <string name="main_menu_popup_proximity_title">Čas. omejitev senzorja bližine</string>
+    <string name="main_menu_popup_proximity_description">Kako dolgo bo senzor bližine aktiven v žepnem načinu. Pusti prazno za privzetih 10 sekund.</string>
+    <string name="main_menu_popup_orientation_title">Zakleni vrtenje</string>
+    <string name="main_menu_popup_orientation_description">Ne zavrti programa, ko obrnem napravo.</string>
+    <string name="about_dialog"><i>Oblikoval in razvil :</i>         \nAnanda Bibek Ray.
+        \n\nZa več podrobnosti in pomoč, izberi spodnji gumb po želji</string>
+    <string name="free_version">Črna/bela lista ni na voljo v brezplačni različici programa Notific. Prosimo, nadgradite na plačljivo različico za uprabo te možnosti, s plačilom pa mi tudi daješ motivacijo, da naredim program boljši.
+        \n\nHvala za uporabo programa Notific.</string>
+
+    <string name="warning_blacklist">Preklopili boste na črno listo. V tem načinu boste dobili obvestila za VSE aplikacije, RAZEN za spodaj izbrane.
+        \n\nNE označite aplikacij, za katere želite dobiti obvestila.</string>
+
+    <string name="warning_whitelist">Preklopili boste na belo listo. V tem načinu boste dobili obvestila SAMO za spodaj izbrane aplikacije.
+        \n\nNE POZABITE OZNAČITI tistih aplikacij, za katere želite dobiti obvestila.</string>
+
+    <string name="warning_test_white">Preklopili ste na \"Belo listo"\. V tem načinu boste dobili obvestila SAMO za spodaj izbrane aplikacije.
+        \n\nČe želite delovanje obvestil PREIZKUSITI, morate v nastavitvah za belo listo omogočiti obvestila za Notific. </string>
+
+    <string name="warning_test_black">Na črno listo ste dodali program Notific.
+        \n\nČe želite delovanje obvestil PREIZKUSITI, morate v nastavitvah za črno listo omogočiti obvestila za Notific. </string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="handle_lowPriority">Show low priority notifications</string>
+    <string name="handle_lowPriority_msg">For example, Google Now weather cards</string>
+    <string name="expanded_title">Show notifications expanded</string>
+    <string name="expanded_msg">Show notifications\' quick action buttons if available</string>
+    <string name="sensor_settings_header">Sensor settings</string>
+    <string name="screenOn_title">Turn screen on</string>
+    <string name="screenOn_msg">Screen will light up for new notifications</string>
+    <string name="pocket_title">Enable pocket mode</string>
+    <string name="pocket_msg">Screen will turn on only after taken out of pocket by checking proximity sensor</string>
+    <string name="orientation_title">Lock popup to portrait</string>
+    <string name="theme_header">Theme settings</string>
+    <string name="select_theme">Select theme</string>
+    <string name="wall_brightness_title">Wallpaper brightness</string>
+    <string name="wall_brightness_msg">Set 0 for full black</string>
+    <string name="slider_padding_title">Slider left/right padding</string>
+    <string name="slider_padding_msg">Increase value (in dp) to decrease slider width. Zero or blank for default</string>
+    <string name="immersive_title">Configure immersive mode</string>
+    <string name="immersive_msg">Choose which system bars to hide</string>
+    <string name="troubleshoot_header">Troubleshooting options</string>
+    <string name="alt_popup_title">Alternate popup mechanism</string>
+    <string name="alt_popup_msg">Recommended for better stability, but popup will appear little late.</string>
+    <string name="calibration_enable">Use custom sensor calibration</string>
+    <string name="calibration_msg">Use this if you are having problems with pocket mode</string>
+    <string name="calibrate_option">Calibrate sensor</string>
+    <string name="sensor_delay">Sensor polling delay</string>
+    <string name="sensor_delay_msg">Increase the value if proximity sensor is not working even after calibration</string>
+    <string name="warning">Warning</string>
+    <string name="go_blacklist">Go to Blacklist settings</string>
+    <string name="test_title_1">Test notification 1</string>
+    <string name="test_body_1">Mr. Jingles says Hi!</string>
+    <string name="action1">Action 1</string>
+    <string name="action2">Action 2</string>
+    <string name="test_title_2">Test notification 2</string>
+    <string name="test_body_2">Mr. Jingles says Hi! Again!!</string>
+    <string name="quick_action">QuickAction</string>
+    <string name="free">Free version</string>
+    <string name="play_store">Upgrade from Play Store</string>
+    <string name="display_mode_title">Show popups when</string>
+    <string name="permission_text">Click here to configure permissions</string>
+    <string name="screenlock_permission_text">Click here to configure screen lock permission</string>
+    <string name="notif_access_grant">Notification access granted</string>
+    <string name="notif_access_not_grant">Notification access not granted</string>
+    <string name="service_active">Background service is active</string>
+    <string name="service_inactive">Background service is not running</string>
+    <string name="working_correct">Application is working correctly</string>
+    <string name="permission_again">Give permission again or reboot device</string>
+    <string name="perm_not_grant">Notification access permission not granted</string>
+    <string name="lock_perm_ok">Screen lock permission granted</string>
+    <string name="lock_permission_not_grant">Screen lock permission not granted</string>
+    <string name="lock_msg_1">Required for screen lock</string>
+    <string name="lock_msg_2">For Notific to automatically lock the screen on last notification dismiss</string>
+    <string name="lock_msg_big">Required for Notific to automatically lock the screen when you dismiss last notification in list</string>
+    <string name="blacklist_mode">Whitelist mode</string>
+    <string name="whitelist_mode">Blacklist mode</string>
+    <string name="night_title">Enable Night mode</string>
+    <string name="night_msg">Notific won\'t be active during given time</string>
+    <string name="night_start">Night mode starts from</string>
+    <string name="night_end">Night mode ends at</string>
+    <string name="dont_change">Don\'t change</string>
+    <string name="got_it">Got it!</string>
+    <string name="developer">Developer</string>
+    <string name="links">Links</string>
+    <string name="credits">Credits</string>
+    <string name="translators">Translations by:
+    \n\nGerman : Christoph Seelbach
+    \n\nFrench : Antoine Thenaisy
+    \n\nItalian : Roberto Darko</string>
+    <string name="blur_title">Blur background</string>
+    <string name="blur_msg">This will significantly increase memory usage</string>
+
+
+    <string-array name="immersive_mode">
+        <item>Disabled</item>
+        <item>Hide navigation bar</item>
+        <item>Hide status bar</item>
+        <item>Hide both</item>
+    </string-array>
+
+    <string-array name="display_mode">
+        <item>Screen off OR on lockscreen</item>
+        <item>Screen off</item>
+        <item>On lockscreen</item>
+        <item>Screen off AND on lockscreen</item>
+    </string-array>
+
+</resources>
