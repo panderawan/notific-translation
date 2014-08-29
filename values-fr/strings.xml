@@ -85,7 +85,7 @@
     <string name="screenOn_title">Allumer l\'écran</string>
     <string name="screenOn_msg">Allumer l\'écran à la réception d\'une nouvelle notification</string>
     <string name="pocket_title">Activer le mode "poche"</string>
-    <string name="pocket_msg">L'écran s\'allume automatiquement lors de la sortie de la poche</string>
+    <string name="pocket_msg">L\'écran s\'allume automatiquement lors de la sortie de la poche</string>
     <string name="orientation_title">Verrouiller le popup en mode portrait</string>
     <string name="theme_header">Configuration du thème</string>
     <string name="select_theme">Sélection du thème</string>
@@ -136,16 +136,24 @@
     <string name="night_start">Le mode nuit commence à :</string>
     <string name="night_end">Le mode nuit fini à :</string>
     <string name="dont_change">Ne pas changer</string>
-    <string name="got_it">Je l'ai!</string>
+    <string name="got_it">Je l\'ai!</string>
     <string name="developer">Développeur</string>
     <string name="links">Liens</string>
     <string name="credits">Crédits</string>
     <string name="translators">Traduction par:
     \n\nAllemand : Christoph Seelbach
-    \n\nFrançais : Antoine Thenaisy
-    \n\nItalien : Roberto Darko</string>
-    <string name="blur_title">Fond d'écran floutté</string>
-    <string name="blur_msg">Cela augmentera considérablement l'utilisation mémoire</string>
+    \n\nFrançais : Antoine Thenaisy, ZaGaPonG
+    \n\nItalien : Roberto Darko
+    \n\nSlovene : kv1dr</string>
+    <string name="blur_title">Fond d\'écran floutté</string>
+    <string name="blur_msg">Cela augmentera considérablement l\'utilisation mémoire</string>
+    <string name="show_in_recent_title">Show in recent apps\' screen</string>
+    <string name="show_in_recent_msg">Turn this on if you face popup getting stuck in wallpaper bug</string>
+    <string name="misc">Others</string>
+    <string name="action_btn_unlock_title">Action button unlock</string>
+    <string name="action_btn_unlock_msg">Unlock keyguard when notification\'s action buttons are pressed. [Only for AndroidWear theme]</string>
+    <string name="auto_off_msg">Turn off screen after dismissing last notification</string>
+    <string name="auto_off_title">Auto screen off</string>
 
 
     <string-array name="immersive_mode">
