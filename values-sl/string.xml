@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_section1">Pregledna plošča</string>
+    <string name="title_section2">Črna lista</string>
+    <string name="title_section3">Nastavitve</string>
+    <string name="navigation_drawer_open">Odpri navigacijski predal</string>
+    <string name="navigation_drawer_close">Zapri navigacijski predal</string>
+    <string name="action_example">Preizkusi</string>
+    <string name="action_settings">Nastavitve</string>
+    <string name="help">Pomoč</string>
+    <string name="about">O programu</string>
+    <string name="service_name">Storitev za obvestila</string>
+    <string name="view_notification">Poglej</string>
+    <string name="dismiss_notification">Skrij</string>
+
+    <string name="main_menu_popup_timeout_title">Čas. omejitev zaslona</string>
+    <string name="main_menu_popup_timeout_description">Koliko časa v sekundah bo ostal ekran prižgan. Pusti prazno ali vnesi 0 za privzete nastavitve.</string>
+    <string name="main_menu_popup_proximity_title">Čas. omejitev senzorja bližine</string>
+    <string name="main_menu_popup_proximity_description">Kako dolgo bo senzor bližine aktiven v žepnem načinu. Pusti prazno za privzetih 10 sekund.</string>
+    <string name="main_menu_popup_orientation_title">Zakleni vrtenje</string>
+    <string name="main_menu_popup_orientation_description">Ne zavrti programa, ko obrnem napravo.</string>
+    <string name="about_dialog"><i>Oblikoval in razvil :</i>         \nAnanda Bibek Ray.
+        \n\nZa več podrobnosti in pomoč, izberi spodnji gumb po želji</string>
+    <string name="free_version">Črna/bela lista ni na voljo v brezplačni različici programa Notific. Prosimo, nadgradite na plačljivo različico za uprabo te možnosti, s plačilom pa mi tudi daješ motivacijo, da naredim program boljši.
+        \n\nHvala za uporabo programa Notific.</string>
+
+    <string name="warning_blacklist">Preklopili boste na črno listo. V tem načinu boste dobili obvestila za VSE aplikacije, RAZEN za spodaj izbrane.
+        \n\nNE označite aplikacij, za katere želite dobiti obvestila.</string>
+
+    <string name="warning_whitelist">Preklopili boste na belo listo. V tem načinu boste dobili obvestila SAMO za spodaj izbrane aplikacije.
+        \n\nNE POZABITE OZNAČITI tistih aplikacij, za katere želite dobiti obvestila.</string>
+
+    <string name="warning_test_white">Preklopili ste na \"Belo listo"\. V tem načinu boste dobili obvestila SAMO za spodaj izbrane aplikacije.
+        \n\nČe želite delovanje obvestil PREIZKUSITI, morate v nastavitvah za belo listo omogočiti obvestila za Notific. </string>
+
+    <string name="warning_test_black">Na črno listo ste dodali program Notific.
+        \n\nČe želite delovanje obvestil PREIZKUSITI, morate v nastavitvah za črno listo omogočiti obvestila za Notific. </string>
+    <string name="notification_settings">Nastavitve obvestil</string>
+    <string name="handle_lowPriority">Prikaži obvestila majhne prioritete</string>
+    <string name="handle_lowPriority_msg">Npr.: vreme Googlovega asistenta</string>
+    <string name="expanded_title">Prikaži obvestila razširjeno</string>
+    <string name="expanded_msg">Prikaži \"hitre\" gumbe, če so na voljo</string>
+    <string name="sensor_settings_header">Nastavitve senzorja</string>
+    <string name="screenOn_title">Vklopi zaslon</string>
+    <string name="screenOn_msg">Zaslon se bo vklopil ob prejetem obvestilu</string>
+    <string name="pocket_title">Omogoči žepni način</string>
+    <string name="pocket_msg">Zaslon se bo vklopil samo, ko boste telefon potegnili ven iz žepa(z uporabo senzorja bližine)</string>
+    <string name="orientation_title">Zakleni vrtenje na pokončno</string>
+    <string name="theme_header">Nastavitve teme</string>
+    <string name="select_theme">Izberi temo</string>
+    <string name="wall_brightness_title">Svetlost ozadja</string>
+    <string name="wall_brightness_msg">Nastavi na 0 za popolno črnino</string>
+    <string name="slider_padding_title">Odmik drsnika(levo/desno)</string>
+    <string name="slider_padding_msg">Povečaj vrednost(v dp-jih) da zmanjšaš širino drsnika. Vnesi 0 ali pusti prazno za privzeto nastavitev</string>
+    <string name="immersive_title">Nastavi \"immersive\" način</string>
+    <string name="immersive_msg">Izberi katero sistemska vrstica naj bo skrita</string>
+    <string name="troubleshoot_header">Nastavitve za odpravljanje težav</string>
+    <string name="alt_popup_title">Nadomestni mehanizem pojavnega okna</string>
+    <string name="alt_popup_msg">Priporočeno za boljšo stabilnost, vendar se bo obvestilo prikazalo malce pozneje.</string>
+    <string name="calibration_enable">Uporabi ročno kalibriranje senzorja</string>
+    <string name="calibration_msg">Uporabi to možnost, če imaš probleme z žepnem načinu</string>
+    <string name="calibrate_option">Kalibriraj senzor</string>
+    <string name="sensor_delay">Zakasnitev senzorja</string>
+    <string name="sensor_delay_msg">Povečaj to vrednost, če senzor bližine tudi po kalibraciji še vedno ne deluje</string>
+    <string name="warning">Opozorilo</string>
+    <string name="go_blacklist">Pojdi na nastavitve črne liste</string>
+    <string name="test_title_1">Preizkus obvestila 1</string>
+    <string name="test_body_1">G. Novak Vas pozdravlja!</string>
+    <string name="action1">Dejanje 1</string>
+    <string name="action2">Dejanje 2</string>
+    <string name="test_title_2">Preizkus obvestila 2</string>
+    <string name="test_body_2">G. Novak Vas pozdravlja! Že spet!!</string>
+    <string name="quick_action">Hitro dejanje</string>
+    <string name="free">Brezplačna različica</string>
+    <string name="play_store">Nadgradi v Trgovini Play</string>
+    <string name="display_mode_title">Prikaži obvestila ko</string>
+    <string name="permission_text">Klikni sem da nastaviš dovoljenja</string>
+    <string name="screenlock_permission_text">Klikni sem da dovoliš zaklepanje zaslona</string>
+    <string name="notif_access_grant">Dostop do obvestil dovoljen</string>
+    <string name="notif_access_not_grant">Dostop do obvestil ni dovoljen</string>
+    <string name="service_active">Storitev v ozadju je aktivna</string>
+    <string name="service_inactive">Storitev v ozadju se ne izvaja</string>
+    <string name="working_correct">Aplikacija deluje pravilno</string>
+    <string name="permission_again">Ponovno dodeli pravice ali pa ponovno zaženi napravo</string>
+    <string name="perm_not_grant">Dostop do obvestil ni dovoljen</string>
+    <string name="lock_perm_ok">Zaklepanje zaslona je dovoljeno</string>
+    <string name="lock_permission_not_grant">Zaklepanje zaslona ni dovoljeno</string>
+    <string name="lock_msg_1">Zahtevano za zaklepanje zaslona</string>
+    <string name="lock_msg_2">Da lahko Notific samodejno zaklene zaslon po skrivanju zadnjega obvestila</string>
+    <string name="lock_msg_big">Zahtevano za Notific, da lahko samodejno zaklene zaslon, ko skijete zadnjo obvestilo na seznamu</string>
+    <string name="blacklist_mode">Bela lista</string>
+    <string name="whitelist_mode">Črna lista</string>
+    <string name="night_title">Omogoči nočni način</string>
+    <string name="night_msg">Notific med tem časom ne bo aktiven</string>
+    <string name="night_start">Nočni način se začne ob</string>
+    <string name="night_end">Nočni način se konča ob</string>
+    <string name="dont_change">Ne spremeni</string>
+    <string name="got_it">Razumem!</string>
+    <string name="developer">Razvijalec</string>
+    <string name="links">Povezave</string>
+    <string name="credits">Zahvale</string>
+    <string name="translators">Prevajalci:
+    \n\nNemščina : Christoph Seelbach
+    \n\nFrancoščina : Antoine Thenaisy
+    \n\nItalijanščina : Roberto Darko
+    \n\nSlovenščina : kv1dr</string>
+    <string name="blur_title">Zamegljenost ozadja</string>
+    <string name="blur_msg">To po precej povečalo uporabo pomnilnika</string>
+
+
+    <string-array name="immersive_mode">
+        <item>Onemogočen</item>
+        <item>Skrij navigacijsko vrstico</item>
+        <item>Skrij statusno vrstico</item>
+        <item>Skrij oboje</item>
+    </string-array>
+
+    <string-array name="display_mode">
+        <item>Ob izklopljenem zaslonu ALI na zaslonu za zaklepanje</item>
+        <item>Ob izklopljenem zaslonu</item>
+        <item>Na zaslonu za zaklepanje</item>
+        <item>Ob izklopljenem zaslonu IN na zaslonu za zaklepanje</item>
+    </string-array>
+
+</resources>
