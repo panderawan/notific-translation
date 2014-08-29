@@ -27,7 +27,7 @@
         <item>3</item>
     </string-array>
 
-    <string name="about_dialog_header" translatable = "false">Notific 2.21 (PAID)</string>
+    <string name="about_dialog_header" translatable = "false">Notific 2.30 (Paid)</string>
 
 
     <!--================================================-->
@@ -136,10 +136,18 @@
     <string name="credits">Credits</string>
     <string name="translators">Translations by:
     \n\nGerman : Christoph Seelbach
-    \n\nFrench : Antoine Thenaisy
-    \n\nItalian : Roberto Darko</string>
+    \n\nFrench : Antoine Thenaisy, ZaGaPonG
+    \n\nItalian : Roberto Darko
+    \n\nSlovene : kv1dr</string>
     <string name="blur_title">Blur background</string>
     <string name="blur_msg">This will significantly increase memory usage</string>
+    <string name="show_in_recent_title">Show in recent apps\' screen</string>
+    <string name="show_in_recent_msg">Turn this on if you face popup getting stuck in wallpaper bug</string>
+    <string name="misc">Others</string>
+    <string name="action_btn_unlock_title">Action button unlock</string>
+    <string name="action_btn_unlock_msg">Unlock keyguard when notification\'s action buttons are pressed. [Only for AndroidWear theme]</string>
+    <string name="auto_off_msg">Turn off screen after dismissing last notification</string>
+    <string name="auto_off_title">Auto screen off</string>
 
 
     <string-array name="immersive_mode">
