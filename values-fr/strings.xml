@@ -154,6 +154,10 @@
     <string name="action_btn_unlock_msg">Unlock keyguard when notification\'s action buttons are pressed. [Only for AndroidWear theme]</string>
     <string name="auto_off_msg">Turn off screen after dismissing last notification</string>
     <string name="auto_off_title">Auto screen off</string>
+    <string name="title_section_privacy">Privacy Mode</string>
+    <string name="privacy_mode_msg">Mark those apps whose Notification contents should not be displayed</string>
+    <string name="new_notification">New Notification</string>
+    <string name="content_not_shown">Content not shown</string>
 
 
     <string-array name="immersive_mode">
