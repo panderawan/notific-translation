@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Notific</string>
+    <string-array name="theme_names">
+        <item>NotifyMe legacy</item>
+        <item>Android Wear</item>
+    </string-array>
+    <string-array name="transparency">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="sensor_delay">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="about_dialog_header" translatable = "false">Notific 2.40 (Free)</string>
+
+
+    <!--================================================-->
+
+    <!--Translatable strings-->
+    <!--From here-->
+
+    <string name="title_section1">Управление</string>
+    <string name="title_section2">Черный список</string>
+    <string name="title_section3">Настройки</string>
+    <string name="navigation_drawer_open">Открыть меню навигации</string>
+    <string name="navigation_drawer_close">Закрыть меню навигации</string>
+    <string name="action_example">Тест</string>
+    <string name="action_settings">Настройки</string>
+    <string name="help">Помощь</string>
+    <string name="about">О программе</string>
+    <string name="service_name">Служба уведомлений</string>
+    <string name="view_notification">Просмотреть</string>
+    <string name="dismiss_notification">Удалить</string>
+
+    <string name="main_menu_popup_timeout_title">Время выключения экрана</string>
+    <string name="main_menu_popup_timeout_description">Время выключения экрана в секундах. Поставьте 0 или оставьте пустым для значения по умолчанию</string>
+    <string name="main_menu_popup_proximity_title">Время работы датчика</string>
+    <string name="main_menu_popup_proximity_description">Как долго будет активен датчик в карманном режиме. Оставьте пустым для значения по умолчанию 10 сек.</string>
+    <string name="main_menu_popup_orientation_title">Закрепить положение</string>
+    <string name="main_menu_popup_orientation_description">Не менять положение уведомления при повороте устройства.</string>
+    <string name="about_dialog"><i>Дизайнер и разработчик :</i>         \nAnanda Bibek Ray.
+        \n\nДля более подробной информации и помощи перейдите по одной из ссылок внизу</string>
+    <string name="free_version">Белый/черный списки недоступны в бесплатной версии Notific. Пожалуйста, приобретите платную версию для разблокировки и поощрения разработчика.
+        \n\nСпасибо что используете Notific.</string>
+
+    <string name="warning_blacklist">Вы включили режим черного списка. В этом режиме вы будете получать уведомления от ВСЕХ приложений, КРОМЕ отмеченных.
+        \n\nНЕ ОТМЕЧАЙТЕ приложения, уведомления которых вы хотите видеть.</string>
+
+    <string name="warning_whitelist">Вы включили режим белого списка. В этом режиме вы будете получать уведомления ТОЛЬКО от отмеченных приложений.
+        \n\nНЕ ЗАБУДЬТЕ отметить важные приложения в списке.</string>
+
+    <string name="warning_test_white">Похоже, вы включили режим белого списка. В этом режиме вы будете получать уведомления ТОЛЬКО от отмеченных приложений.
+        \n\nЕсли не внести Notific в белый список, функция \"Тест\" работать не будет. </string>
+
+    <string name="warning_test_black">Похоже, вы внесли Notific в черный список.
+        \n\nЕсли не удалить приложение из этого списка, функция \"Тест\" работать не будет. </string>
+    <string name="notification_settings">Настройки уведомлений</string>
+    <string name="handle_lowPriority">Показывать уведомления с низким приоритетом</string>
+    <string name="handle_lowPriority_msg">Например, погоду Google Now</string>
+    <string name="expanded_title">Показывать развернутыми</string>
+    <string name="expanded_msg">По возможности показывать быстрые действия</string>
+    <string name="sensor_settings_header">Настройки датчика</string>
+    <string name="screenOn_title">Включать экран</string>
+    <string name="screenOn_msg">Экран будет подсвечиваться при новых уведомлениях</string>
+    <string name="pocket_title">Включить карманный режим</string>
+    <string name="pocket_msg">Экран будет включен только при доставании устройства из кармана</string>
+    <string name="orientation_title">Только портретная ориентация</string>
+    <string name="theme_header">Настройки темы</string>
+    <string name="select_theme">Выбрать тему</string>
+    <string name="wall_brightness_title">Яркость обоев</string>
+    <string name="wall_brightness_msg">Для черного фона поставьте 0</string>
+    <string name="slider_padding_title">Горизонтальный отступ слайдера</string>
+    <string name="slider_padding_msg">Увеличьте значение для уменьшения ширины слайдера. Ноль или пусто для значения по умолчанию</string>
+    <string name="immersive_title">Настроить полноэкранный режим</string>
+    <string name="immersive_msg">Выбрать элементы интерфейса для скрытия</string>
+    <string name="troubleshoot_header">Решение проблем</string>
+    <string name="alt_popup_title">Альтернативный механизм уведомлений</string>
+    <string name="alt_popup_msg">Рекомендовано для более стабильной работы, но уведомления могут немного запаздывать.</string>
+    <string name="calibration_enable">Разрешить калибровку датчика</string>
+    <string name="calibration_msg">Используйте если карманный режим работает некорректно</string>
+    <string name="calibrate_option">Калибровать датчик</string>
+    <string name="sensor_delay">Время опроса датчика</string>
+    <string name="sensor_delay_msg">Увеличьте значение если датчик работает некорректно даже после калибровки</string>
+    <string name="warning">Внимание</string>
+    <string name="go_blacklist">В настройки черного списка</string>
+    <string name="test_title_1">Тестовое уведомление 1</string>
+    <string name="test_body_1">Поздоровайтесь с мистером Колокольчиком!</string>
+    <string name="action1">Действие 1</string>
+    <string name="action2">Действие 2</string>
+    <string name="test_title_2">Тестовое уведомление 2</string>
+    <string name="test_body_2">И снова мистер Колокольчик говорит "Привет!"</string>
+    <string name="quick_action">Быстрое действие</string>
+    <string name="free">Бесплатная версия</string>
+    <string name="play_store">Обновить через Google Play</string>
+    <string name="display_mode_title">Когда показывать уведомления</string>
+    <string name="permission_text">Нажмите сюда для настройки разрешений</string>
+    <string name="screenlock_permission_text">Нажмите сюда чтобы разрешить блокировку экрана</string>
+    <string name="notif_access_grant">Доступ к уведомлениям разрешен</string>
+    <string name="notif_access_not_grant">Доступ к уведомлениям не разрешен</string>
+    <string name="service_active">Фоновая служба активна</string>
+    <string name="service_inactive">Фоновая служба не запущена</string>
+    <string name="working_correct">Приложение работает нормально</string>
+    <string name="permission_again">Разрешите еще раз или перезагрузите устройство</string>
+    <string name="perm_not_grant">Не разрешен доступ к уведомлениям</string>
+    <string name="lock_perm_ok">Блокировка экрана разрешена</string>
+    <string name="lock_permission_not_grant">Блокировка экрана не разрешена</string>
+    <string name="lock_msg_1">Необходимо для блокировки экрана</string>
+    <string name="lock_msg_2">После удаления последнего уведомления из списка</string>
+    <string name="lock_msg_big">Требуется Notific для автоматической блокировки экрана при удалении всех оповещений</string>
+    <string name="blacklist_mode">Режим белого списка</string>
+    <string name="whitelist_mode">Режим черного списка</string>
+    <string name="night_title">Включить Ночной режим</string>
+    <string name="night_msg">Notific не будет активен в этот период</string>
+    <string name="night_start">Ночной режим начинается в</string>
+    <string name="night_end">Ночной режим заканчивается в</string>
+    <string name="dont_change">Без изменений</string>
+    <string name="got_it">Все понятно!</string>
+    <string name="developer">Разработчик</string>
+    <string name="links">Ссылки</string>
+    <string name="credits">Благодарности</string>
+    <string name="translators">Перевод:
+    \n\nНемецкий : Christoph Seelbach
+    \n\nФранцузский : Antoine Thenaisy, ZaGaPonG
+    \n\nИтальянский : Roberto Darko
+    \n\nСловенский : kv1dr
+    \n\nРусский : Victor Lapin</string>
+    <string name="blur_title">Размытие фона</string>
+    <string name="blur_msg">Это существенно увеличит объем потребляемой памяти</string>
+    <string name="show_in_recent_title">Показывать в недавно запущенных приложениях</string>
+    <string name="show_in_recent_msg">Включите если уведомление отображается некорректно</string>
+    <string name="misc">Прочие</string>
+    <string name="action_btn_unlock_title">Разблокировать быстрым действием</string>
+    <string name="action_btn_unlock_msg">Устройство будет разблокировано если выбрано быстрое действие. [Только для темы AndroidWear]</string>
+    <string name="auto_off_msg">Выключать экран если уведомлений больше нет</string>
+    <string name="auto_off_title">Авто выключение экрана</string>
+    <string name="title_section_privacy">Приватный режим</string>
+    <string name="privacy_mode_msg">Укажите приложения, для которых содержимое уведомлений должно быть скрыто</string>
+    <string name="new_notification">Новое уведомление</string>
+    <string name="content_not_shown">Содержимое скрыто</string>
+
+
+    <string-array name="immersive_mode">
+        <item>Выключено</item>
+        <item>Скрыть строку навигации</item>
+        <item>Скрыть строку состояния</item>
+        <item>Скрыть все</item>
+    </string-array>
+
+    <string-array name="display_mode">
+        <item>Экран выкл. ИЛИ на экране блокировки</item>
+        <item>Экран выкл.</item>
+        <item>На экране блокировки</item>
+        <item>Экран выкл. И на экране блокировки</item>
+    </string-array>
+
+</resources>
