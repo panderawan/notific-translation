@@ -27,8 +27,6 @@
         <item>3</item>
     </string-array>
 
-    <string name="about_dialog_header" translatable = "false">Notific 2.40 (Free)</string>
-
 
     <!--================================================-->
 
@@ -139,7 +137,8 @@
     \n\nФранцузский : Antoine Thenaisy, ZaGaPonG
     \n\nИтальянский : Roberto Darko
     \n\nСловенский : kv1dr
-    \n\nРусский : Victor Lapin</string>
+    \n\nРусский : Victor Lapin
+    \n\nEspañol : Gil Almonte, KoubaK</string>
     <string name="blur_title">Размытие фона</string>
     <string name="blur_msg">Это существенно увеличит объем потребляемой памяти</string>
     <string name="show_in_recent_title">Показывать в недавно запущенных приложениях</string>

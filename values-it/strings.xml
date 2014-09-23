@@ -136,7 +136,9 @@
     \n\nGerman : Christoph Seelbach
     \n\nFrench : Antoine Thenaisy, ZaGaPonG
     \n\nItalian : Roberto Darko
-    \n\nSlovene : kv1dr</string>
+    \n\nSlovene : kv1dr
+    \n\nRussian : Victor Lapin
+    \n\nEspañol : Gil Almonte, KoubaK</string>
     <string name="blur_title">Blur background</string>
     <string name="blur_msg">This will significantly increase memory usage</string>
     <string name="show_in_recent_title">Show in recent apps\' screen</string>
