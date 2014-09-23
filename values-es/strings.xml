@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+	<string name="app_name">Notific</string>
+	<string-array name="theme_names">
+		<item>NotifyMe legacy</item>
+		<item>Android Wear</item>
+	</string-array>
+	<string-array name="transparency">
+		<item>0</item>
+		<item>10</item>
+		<item>20</item>
+		<item>30</item>
+		<item>40</item>
+		<item>50</item>
+		<item>60</item>
+		<item>70</item>
+		<item>80</item>
+		<item>90</item>
+		<item>100</item>
+	</string-array>
+	<string-array name="sensor_delay">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+
+	<string name="about_dialog_header" translatable = "false">Notific 2.40 (Free)</string>
+	
+	
+	<!--================================================-->
+	
+	<!--Translatable strings-->
+		<!--From here-->
+	
+	<string name="title_section1">Tablero</string>
+	<string name="title_section2">Lista Negra</string>
+	<string name="title_section3">Configuración</string>
+	<string name="navigation_drawer_open">Abrir Panel de Navegación</string>
+	<string name="navigation_drawer_close">Cerrar Panel de Navegación</string>
+	<string name="action_example">Prueba</string>
+	<string name="action_settings">Configuración</string>
+	<string name="help">Ayuda</string>
+	<string name="about">Acerca de</string>
+	<string name="service_name">Servicio de Notificación</string>
+	<string name="view_notification">Ver</string>
+	<string name="dismiss_notification">Ignorar</string>
+	
+	<string name="main_menu_popup_timeout_title">Tiempo de Espera</string>
+	<string name="main_menu_popup_timeout_description">Tiempo en segundos que la pantalla permanecerá encendida. Dejar en blanco o cero para tiempo predeterminado por el sistema.</string>
+	<string name="main_menu_popup_proximity_title">Intervalo del Sensor de Proximidad</string>
+	<string name="main_menu_popup_proximity_description">Tiempo en segundos que el sensor de proximidad permanecerá activado. Dejar en blanco para tiempo predeterminado; 10sec.</string>
+	<string name="main_menu_popup_orientation_title">Bloquear orientación</string>
+	<string name="main_menu_popup_orientation_description">Evita el cambio de orientación de la pantalla cuando activada.</string>
+	
+	<string name="about_dialog"><i>Diseñada y desarrollada por: </i> \nAnanda Bibek Ray.
+	\n\nPara mas detalles y ayuda, seguir el enlace abajo.</string>
+	<string name="free_version">Las opciones de Lista Negra / Lista Blanca no están disponibles en la versión gratis de Nitific. Por favor de actualizar a la versión pagada para utilizar estas funciones y apoyar al diseñador a crear mas aplicaciones.
+	\n\nGracias por utilizar Notific.</string>
+	
+	<string name="warning_blacklist">Vas a cambiar al modo Lista Negra. En este modo recibirás pop-ups para TODAS las aplicaciones, EXCEPTO aquellas seleccionadas. 
+	\n\nNO SELECCIONE las aplicaciones para las que desea recibir pop-ups. </string>
+	<string name="warning_whitelist">Vas a cambiar al modo Lista Blanca. En este modo recibirás pop-ups SOLO para las aplicaciones seleccionadas.
+	\n\nRECUERDA SELECCIONAR las aplicaciones para las cuales desea recibir pop-ups.</string>
+	<string name="warning_test_white">Aparenta que has activado el modo de \"Lista Blanca\". En este modo recibirás pop-ups SOLO de las aplicaciones seleccionadas.
+	\n\nSi desea probar la opción, tendrás que seleccionar Notific en la Lista Blanca. </string>
+	<string name="warning_test_black">Aparenta que has seleccionado Notific en tu Lista Negra.
+	\n\nSi desea probar la opción, tendrás que anular la selección de Notific. </string>
+	
+	<string name="notification_settings">Configuración de notificaciones</string>
+	<string name="handle_lowPriority">Mostrar notificaciones de baja prioridad</string>
+	<string name="handle_lowPriority_msg">Como ejemplo, Tarjetas de Google Now</string>
+	<string name="expanded_title">Mostrar notificaciones expandidas</string>
+	<string name="expanded_msg">Mostar botones de acción rápida, si están disponibles</string>
+	<string name="sensor_settings_header">Configuración de Sensores</string>
+	<string name="screenOn_title">Prender la pantalla</string>
+	<string name="screenOn_msg">La pantalla se encenderá para nuevas notificaciones</string>
+	<string name="pocket_title">Activar Modo Bolsillo</string>
+	<string name="pocket_msg">La pantalla se encenderá después de sacar el dispositivo del bolsillo gracias al sensor de proximidad.</string>
+	<string name="orientation_title">Pop-ups SÓLO en modo vertical</string>
+	<string name="theme_header">Configuración de Temas</string>
+	<string name="select_theme">Seleccionar Tema</string>
+	<string name="wall_brightness_title">Brillo de Fondo</string>
+	<string name="wall_brightness_msg">0 para completamente negro.</string>
+	<string name="slider_padding_title">Deslizador hacia la izquierda/derecha de relleno.</string>
+	<string name="slider_padding_msg">Aumenta el valor (en dp) para disminuir lo ancho del deslizador. Cero o blanco para valor predeterminado.</string>
+	<string name="immersive_title">Configurar Modo de Inmersión</string>
+	<string name="immersive_msg">Elija el modo de ocultar</string>
+	<string name="troubleshoot_header">Resolución de Problemas</string>
+	<string name="alt_popup_title">Alternar el mecanismo de pop-ups</string>
+	<string name="alt_popup_msg">Recomendado para una mejor estabilidad, pero los pop-ups aparecen un poco retrasado.</string>
+	<string name="calibration_enable">Utilice una calibración de sensores personalizada</string>
+	<string name="calibration_msg">Utilice esta opción si está teniendo dificultades con el modo de Bolsillo.</string>
+	<string name="calibrate_option">Calibrar el sensor</string>
+	<string name="sensor_delay">Retraso de colección del sensor</string>
+	<string name="sensor_delay_msg">Incremente el valor si el sensor de proximidad no funciona aun después de ser calibrado.</string>
+	<string name="warning">Advertencia</string>
+	<string name="go_blacklist">Ir a la Configuración de la Lista Negra</string>
+	<string name="test_title_1">Notificación de Prueba 1</string>
+	<string name="test_body_1">¡Sr. Jingles dice Hola!</string>
+	<string name="action1">Acción 1</string>
+	<string name="action2">Acción 2</string>
+	<string name="test_title_2">Notificación de Prueba 2</string>
+	<string name="test_body_2">¡Sr. Jingles dice Hola! ¡De nuevo!!</string>
+	<string name="quick_action">Acción Rápida</string>
+	<string name="free">Versión gratis</string>
+	<string name="play_store">Actualizar desde la Play Store</string>
+	<string name="display_mode_title">Mostrar pop-ups cuando...</string>
+	<string name="permission_text">Presiona aquí para configurar los permisos</string>
+	<string name="screenlock_permission_text">Presiona aquí para configurar los permisos del bloqueo de pantalla</string>
+	<string name="notif_access_grant">Acceso a las notificaciones concedido</string>
+	<string name="notif_access_not_grant">Acceso a las notificaciones negado</string>
+	<string name="service_active">Servicio de fondo activado</string>
+	<string name="service_inactive">Servicio de fondo inactivo</string>
+	<string name="working_correct">La aplicación funciona correctamente</string>
+	<string name="permission_again">Ceda permiso de nuevo o reinicie el dispositivo</string>
+	<string name="perm_not_grant">Permiso al acceso de notificaciones no ha sido concedido</string>
+	<string name="lock_perm_ok">Permiso al bloqueo de pantalla concedido</string>
+	<string name="lock_permission_not_grant">Permiso al bloqueo de pantalla negado</string>
+	<string name="lock_msg_1">Requerido para el bloqueo de pantalla</string>
+	<string name="lock_msg_2">Para que Notific automáticamente  bloquee la pantalla al despedir la última notificación</string>
+	<string name="lock_msg_big">Requerido para que Notific automáticamente  bloquee su pantalla al despedir la última notificación en la lista</string>
+	<string name="blacklist_mode">Lista Blanca</string>
+	<string name="whitelist_mode">Lista Negra</string>
+	<string name="night_title">Activar Modo Nocturno</string>
+	<string name="night_msg">Notific no estará activado durante el tiempo predeterminado</string>
+	<string name="night_start">Modo Nocturno comienza a las</string>
+	<string name="night_end">Modo Nocturno</string>
+	<string name="dont_change">No Cambiar</string>
+	<string name="got_it">Entiendo!</string>
+	<string name="developer">Diseñador</string>
+	<string name="links">Enlaces</string>
+	<string name="credits">Créditos</string>
+	<string name="translators">Traducciones por:
+	\n\nAlemán : Christoph Seelbach
+	\n\nFrancés : Antoine Thenaisy, ZaGaPonG
+	\n\nItaliano : Roberto Darko
+	\n\nEsloveno : kv1dr
+	\n\nEspañol : Gil Almonte, KoubaK</string>
+	<string name="blur_title">Desenfoque el fondo</string>
+	<string name="blur_msg">Esta opción aumentará significativamente el uso de memoria. </string>
+	<string name="show_in_recent_title">Mostrar en Reciente Aplicaciones</string>
+	<string name="show_in_recent_msg">Active esta opción si los pop-ups quedan atascados en el fondo.</string>
+	<string name="misc">Misceláneas</string>
+	<string name="action_btn_unlock_title">Desbloquear botón de acción</string>
+	<string name="action_btn_unlock_msg">Desbloquear las teclas al pulsar el botón de acción de notificaciones. [Solo para el tema de AndroidWear]</string>
+	<string name="auto_off_msg">Apagar la pantalla al despedir la última notificación</string>
+	<string name="auto_off_title">Apagar la pantalla automáticamente </string>
+	<string name="title_section_privacy">Modo de Privacidad</string>
+	<string name="privacy_mode_msg">Seleccione aquellas aplicaciones cuales desea que el contenido de cuyas notificaciones no sea mostrado</string>
+	<string name="new_notification">Nueva Notificación</string>
+	<string name="content_not_shown">Contenido no mostrado</string>
+	
+
+	<string-array name="immersive_mode">
+		<item>Deshabilitado</item>
+		<item>Ocultar la barra de navegación</item>
+		<item>Ocultar la barra de estado</item>
+		<item>Ocultar ambas</item>
+	</string-array>
+
+	<string-array name="display_mode">
+		<item>Pantalla Apagada o en pantalla de bloqueo</item>
+		<item>Pantalla Apagada</item>
+		<item>En Pantalla de bloqueo</item>
+		<item>Pantalla Apagada y en pantalla de bloqueo</item>
+	</string-array>
+
+</resources>
