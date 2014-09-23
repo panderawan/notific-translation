@@ -138,17 +138,17 @@
     \n\nSlovenščina : kv1dr</string>
     <string name="blur_title">Zamegljenost ozadja</string>
     <string name="blur_msg">To po precej povečalo uporabo pomnilnika</string>
-    <string name="show_in_recent_title">Show in recent apps\' screen</string>
-    <string name="show_in_recent_msg">Turn this on if you face popup getting stuck in wallpaper bug</string>
-    <string name="misc">Others</string>
-    <string name="action_btn_unlock_title">Action button unlock</string>
-    <string name="action_btn_unlock_msg">Unlock keyguard when notification\'s action buttons are pressed. [Only for AndroidWear theme]</string>
-    <string name="auto_off_msg">Turn off screen after dismissing last notification</string>
-    <string name="auto_off_title">Auto screen off</string>
-    <string name="title_section_privacy">Privacy Mode</string>
-    <string name="privacy_mode_msg">Mark those apps whose Notification contents should not be displayed</string>
-    <string name="new_notification">New Notification</string>
-    <string name="content_not_shown">Content not shown</string>
+    <string name="show_in_recent_title">Prikaži na oknu nedavnih programov</string>
+    <string name="show_in_recent_msg">Vključi to funkcijo, če se Notific okno \"zatakne\" v ozadju namizja</string>
+    <string name="misc">Ostalo</string>
+    <string name="action_btn_unlock_title">Odklep ob kliku na gumb</string>
+    <string name="action_btn_unlock_msg">Odkleni zaslon, ob kliku na gumb obvestila. [Samo za AndroidWear temo]</string>
+    <string name="auto_off_msg">Ugasni zaslon, ko skrijem zadnjo obvestilo</string>
+    <string name="auto_off_title">Samodejni izklop zaslona</string>
+    <string name="title_section_privacy">Način zasebnosti</string>
+    <string name="privacy_mode_msg">Izberi programe, za ketere nočeš prikazati vsebine</string>
+    <string name="new_notification">Novo obvestilo</string>
+    <string name="content_not_shown">Vsebina ni prikazana</string>
 
 
     <string-array name="immersive_mode">
