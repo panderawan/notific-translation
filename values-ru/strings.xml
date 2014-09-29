@@ -77,7 +77,7 @@
     <string name="screenOn_title">Включать экран</string>
     <string name="screenOn_msg">Экран будет подсвечиваться при новых уведомлениях</string>
     <string name="pocket_title">Включить карманный режим</string>
-    <string name="pocket_msg">Экран будет включен только при доставании устройства из кармана</string>
+    <string name="pocket_msg">Экран будет включен только при извлечении устройства из кармана</string>
     <string name="orientation_title">Только портретная ориентация</string>
     <string name="theme_header">Настройки темы</string>
     <string name="select_theme">Выбрать тему</string>
@@ -119,7 +119,7 @@
     <string name="lock_perm_ok">Блокировка экрана разрешена</string>
     <string name="lock_permission_not_grant">Блокировка экрана не разрешена</string>
     <string name="lock_msg_1">Необходимо для блокировки экрана</string>
-    <string name="lock_msg_2">После удаления последнего уведомления из списка</string>
+    <string name="lock_msg_2">Для автоматической блокировки экрана при удалении всех оповещений</string>
     <string name="lock_msg_big">Требуется Notific для автоматической блокировки экрана при удалении всех оповещений</string>
     <string name="blacklist_mode">Режим белого списка</string>
     <string name="whitelist_mode">Режим черного списка</string>
@@ -138,7 +138,7 @@
     \n\nИтальянский : Roberto Darko
     \n\nСловенский : kv1dr
     \n\nРусский : Victor Lapin
-    \n\nEspañol : Gil Almonte, KoubaK</string>
+    \n\nИспанский : Gil Almonte, KoubaK</string>
     <string name="blur_title">Размытие фона</string>
     <string name="blur_msg">Это существенно увеличит объем потребляемой памяти</string>
     <string name="show_in_recent_title">Показывать в недавно запущенных приложениях</string>
