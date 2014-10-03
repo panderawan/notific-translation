@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="display_mode">
+        <item>الشاشة مغلقة أو على شاشة القفل </item>
+        <item>الشاشة مغلقة</item>
+        <item>قفل الشاشة</item>
+        <item>الشاشة مغلقة و على شاشة القفل</item>
+    </string-array>
+    <string-array name="immersive_mode">
+        <item>تعطيل</item>
+        <item>إخفاء navigation bar</item>
+        <item>إخفاء شريط الإشعارات</item>
+        <item>إخفاء الكل</item>
+    </string-array>
+    <string-array name="sensor_delay">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>NotifyMe legacy</item>
+        <item>Android Wear</item>
+    </string-array>
+    <string-array name="transparency">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+
+
+    <string name="about">حول</string>
+    <string name="about_dialog"><i>تم التصميم والتطوير بواسطة :</i>" 
+Ananda Bibek Ray. 
+
+للمزيد من المعلومات أو المساعدة زر أي رابط من الموجودة بالأسفل"</string>
+    <string name="action1">الإجراء 1</string>
+    <string name="action2">الإجراء 2</string>
+    <string name="action_btn_unlock_msg">"Unlock keyguard when notification's action buttons are pressed. [Only for AndroidWear theme]"</string>
+    <string name="action_btn_unlock_title">Action button unlock</string>
+    <string name="action_example">تجربة</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="alt_popup_msg">موصى به لإستقرار أفضل ، ولكن النافذة المنبثقة ستظهر متأخرة قليلًا.</string>
+    <string name="alt_popup_title">آليّة إنبثاق بديلة</string>
+    <string name="app_name">Notific</string>
+    <string name="auto_off_msg">إطفاء الشاشة بعد إستبعاد أخر إشعار</string>
+    <string name="auto_off_title">إطفاء تلقائي للشاشة</string>
+    <string name="blacklist_mode">نمط القائمة البيضاء</string>
+    <string name="blur_msg">هذا سيزيد كثيرًا في استخدام الذاكرة العشوائية</string>
+    <string name="blur_title">تمويه ضبابي للخلفية</string>
+    <string name="calibrate_option">معايرة المستشعر</string>
+    <string name="calibration_enable">استخدام معايرة مخصصة للمستشعر</string>
+    <string name="calibration_msg">استخدم هذا الخيار لو كنت تواجه مشاكل مع وضع الجيب</string>
+    <string name="content_not_shown">المحتوى غير معروض</string>
+    <string name="credits">مدين لـ</string>
+    <string name="developer">المطور</string>
+    <string name="dismiss_notification">استبعاد</string>
+    <string name="display_mode_title">عرض النافذة المنبثة عندما</string>
+    <string name="dont_change">"لا تغيير"</string>
+    <string name="expanded_msg">"عرض التنبيهات ، زر إجراء سريع لو كان متاح"</string>
+    <string name="expanded_title">توسيع عرض الإشعارات</string>
+    <string name="free">نسخة مجانية</string>
+    <string name="free_version">"القائمة السوداء والبيضاء ليست متاحة في النسخة المجانية ، رجاء قم بترقية النسخة للنسخة المدفوعة وتساهم بدعمي لصنع تطبيقات رائعة أخرى. 
+
+شكرًا لإستخدامك Notific."</string>
+    <string name="go_blacklist">إذهب إلى إعدادات القائمة السوداء</string>
+    <string name="got_it">فهمت!</string>
+    <string name="handle_lowPriority">عرض إشعارات ذات أولوية منخفضة</string>
+    <string name="handle_lowPriority_msg">على سبيل المثال ، إشعارات الطقس من قوقل ناو</string>
+    <string name="help">مساعدة</string>
+    <string name="immersive_msg">إختر أي من أشرطة إشعارات النظام تريد إخفائها</string>
+    <string name="immersive_title">تهيئة وضع زيادة الأبعاد</string>
+    <string name="links">الروابط</string>
+    <string name="lock_msg_1">ضروري لقفل الشاشة تلقائيّا</string>
+    <string name="lock_msg_2">ليجعل التطبيق قادر على قفل الشاشة بعد إستبعاد أخر إشعار</string>
+    <string name="lock_msg_big">ضروري ليجعل تطبيق Notific يقفل الشاشة تلقائيّا عندما تستبعد أخر إشعار في قائمة الإشعارات</string>
+    <string name="lock_perm_ok">منح إذن قَفْل الشاشة</string>
+    <string name="lock_permission_not_grant">إذن قفل الشاشة لم يمنح</string>
+    <string name="main_menu_popup_orientation_description">"لا تغير إتجاة النافذة المنبثقة لو كنت تستخدم تدوير الهاتف."</string>
+    <string name="main_menu_popup_orientation_title">إتجاة القفل</string>
+    <string name="main_menu_popup_proximity_description">مدة نشاط مستشعر الملاصقة لوضع الجيب ، أتركه خاليًا ليبقى على المدة الإفتراضية 10 ثوان.</string>
+    <string name="main_menu_popup_proximity_title">مهلة مستشعر الملاصقة</string>
+    <string name="main_menu_popup_timeout_description">مدة بقاء الشاشة يقظة بالثواني بعد الإشعار ، اتركه خاليًا ليبقى بالمدة الإفتراضية للنظام</string>
+    <string name="main_menu_popup_timeout_title">مهلة الشاشة</string>
+    <string name="misc">أخرى</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="new_notification">إشعارات جديدة</string>
+    <string name="night_end">الوضع الليلي ينتهي في</string>
+    <string name="night_msg">"التطبيق لن يكون فعّالًا خلال الوقت المحدد"</string>
+    <string name="night_start">الوضع الليلي يبدأ من</string>
+    <string name="night_title">تفعيل الوضع الليلي</string>
+    <string name="notif_access_grant">تم منح الوصول للإشعارات</string>
+    <string name="notif_access_not_grant">الوصول للإشعارات لم يمنح</string>
+    <string name="notification_settings">إعدادات الإشعارات</string>
+    <string name="orientation_title">إشعارات القفل المنبثقة للوضع العمودي فقط</string>
+    <string name="perm_not_grant">إذن الوصول للإشعارات لم يمنح</string>
+    <string name="permission_again">إعطاء الإذن مرة أخرى أو إعادة تشغيل الجهاز</string>
+    <string name="permission_text">اضغط هنا لتهيئة الأذونات</string>
+    <string name="play_store">الترقية من متجر قوقل</string>
+    <string name="pocket_msg">الشاشة ستضاء بعد إخراجه من الجيب عن طريق فحص مستشعر الملاصقة</string>
+    <string name="pocket_title">تفعيل وضع الجيب</string>
+    <string name="privacy_mode_msg">حدد التطبيقات التي تريد عرض إشعاراتها ولكن دون عرض المحتوى</string>
+    <string name="quick_action">إجراء سريع</string>
+    <string name="screenOn_msg">الشاشة ستضاء فور إستلام إشعارات جديدة</string>
+    <string name="screenOn_title">تشغيل إضاءة الشاشة</string>
+    <string name="screenlock_permission_text">اضغط هنا لتهيئة أذن قفل الشاشة</string>
+    <string name="select_theme">إختر السمة</string>
+    <string name="sensor_delay">Sensor polling delay</string>
+    <string name="sensor_delay_msg">زيادة القيمة لو أن مستشعر الملاصقة لا يعمل حتى بعد المعايرة</string>
+    <string name="sensor_settings_header">إعدادات المستشعر</string>
+    <string name="service_active">خدمة العمل في الخلفية نشطة</string>
+    <string name="service_inactive">خدمة العمل في الخلفية غير نشطة</string>
+    <string name="service_name">خدمة الإشعارات</string>
+    <string name="show_in_recent_msg">فعّل هذا الخيار لو كنت تواجة خلل تعليق النافذة المنبثقة على الخلفية</string>
+    <string name="show_in_recent_title">"العرض في شاشة التطبيقات الحديثة"</string>
+    <string name="slider_padding_msg">زيادة القيمة لتقليل عرض شريط التمرير ، اتركه فارغًا للوضع الإفتراضي</string>
+    <string name="slider_padding_title">شريط التمرير لليمين واليسار</string>
+    <string name="test_body_1">زورونا في Droidiat.tk</string>
+    <string name="test_body_2">زورونا في Droidiat.tk</string>
+    <string name="test_title_1">تعريب JetSub</string>
+    <string name="test_title_2">تعريب JetSub</string>
+    <string name="theme_header">إعدادات السمة</string>
+    <string name="title_section1">واجهة التحكم</string>
+    <string name="title_section2">القائمة السوداء</string>
+    <string name="title_section3">الإعدادات</string>
+    <string name="title_section_privacy">وضع الخصوصية</string>
+    <string name="translators">"ترجم بواسطة: 
+
+العربية : JetSub
+
+German : Christoph Seelbach 
+
+French : Antoine Thenaisy, ZaGaPonG 
+
+Italian : Roberto Darko 
+
+Slovene : kv1dr"</string>
+    <string name="troubleshoot_header">خيارات إستكشاف الأخطاء وإصلاحها</string>
+    <string name="view_notification">عرض</string>
+    <string name="wall_brightness_msg">ضع القيمة صفر لتجعل الخلفية سوداء</string>
+    <string name="wall_brightness_title">سطوع الخلفية</string>
+    <string name="warning">تنبيه</string>
+    <string name="warning_blacklist">"أنت غيرت وضع القائمة السوداء ، في هذا الوضع ستنبثق التنبيهات من كل التطبيقات بإستثناء التي حددتها بنفسك. 
+
+لا تحدد هذه التطبيقات لو أردت الحصول على إشعاراتها منبثقة."</string>
+    <string name="warning_test_black">"يبدو أنك أضفت Notific للقائمة السوداء. 
+
+لو أردت تجربة عمل التطبيق ، عليك بإزالة Notific من القائمة السوداء."</string>
+    <string name="warning_test_white">"يبدو أنك قمت بتفعيل وضع القائمة البيضاء ، في هذا الوضع ستستقبل تنبيهات منبثقة من التطبيقات التي تحددها فقط. 
+
+لو أردت تجربة عمل التطبيق ، عليك بإضافة Notific إلى القائمة البيضاء."</string>
+    <string name="warning_whitelist">"يبدو أنك قمت بتغيير الوضع إلى القائمة البيضاء ، في هذا الوضع سوف تتلقى تنبيهات منبثقة من التطبيقات التي حددتها فقط. 
+
+تذكر ، حدد التطبيقات التي فقط تريد أن تتلقى منها تنبيقات منبثقة."</string>
+    <string name="whitelist_mode">وضع القائمة السوداء</string>
+    <string name="working_correct">التطبيق يعمل بشكل صحيح</string>
+    <string name="show_user_pic_msg">Show user picture in notification</string>
+    <string name="wear_theme_only">For Android Wear theme only</string>
+    <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
+</resources>
