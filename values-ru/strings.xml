@@ -155,6 +155,8 @@
     <string name="show_user_pic_msg">Show user picture in notification</string>
     <string name="wear_theme_only">For Android Wear theme only</string>
     <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
+    <string name="smart_screen_off_title">Smart auto off</string>
+    <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user</string>
 
 
     <string-array name="immersive_mode">
