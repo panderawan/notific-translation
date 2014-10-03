@@ -137,7 +137,8 @@
 	\n\nItaliano : Roberto Darko
 	\n\nEsloveno : kv1dr
     \n\nRussian : Victor Lapin
-    \n\nEspañol : Gil Almonte, KoubaK</string>
+    \n\nEspañol : Gil Almonte, KoubaK
+    \n\nArabic : JetSub</string>
 	<string name="blur_title">Desenfoque el fondo</string>
 	<string name="blur_msg">Esta opción aumentará significativamente el uso de memoria. </string>
 	<string name="show_in_recent_title">Mostrar en Reciente Aplicaciones</string>
@@ -151,9 +152,12 @@
 	<string name="privacy_mode_msg">Seleccione aquellas aplicaciones cuales desea que el contenido de cuyas notificaciones no sea mostrado</string>
 	<string name="new_notification">Nueva Notificación</string>
 	<string name="content_not_shown">Contenido no mostrado</string>
-	
+    <string name="show_user_pic_msg">Show user picture in notification</string>
+    <string name="wear_theme_only">For Android Wear theme only</string>
+    <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
 
-	<string-array name="immersive_mode">
+
+    <string-array name="immersive_mode">
 		<item>Deshabilitado</item>
 		<item>Ocultar la barra de navegación</item>
 		<item>Ocultar la barra de estado</item>

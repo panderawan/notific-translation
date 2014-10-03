@@ -152,6 +152,9 @@
     <string name="privacy_mode_msg">Укажите приложения, для которых содержимое уведомлений должно быть скрыто</string>
     <string name="new_notification">Новое уведомление</string>
     <string name="content_not_shown">Содержимое скрыто</string>
+    <string name="show_user_pic_msg">Show user picture in notification</string>
+    <string name="wear_theme_only">For Android Wear theme only</string>
+    <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
 
 
     <string-array name="immersive_mode">

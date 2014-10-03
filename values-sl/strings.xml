@@ -137,7 +137,8 @@
     \n\nItalijanščina : Roberto Darko
     \n\nSlovenščina : kv1dr
     \n\nRussian : Victor Lapin
-    \n\nEspañol : Gil Almonte, KoubaK</string>
+    \n\nEspañol : Gil Almonte, KoubaK
+    \n\nArabic : JetSub</string>
     <string name="blur_title">Zamegljenost ozadja</string>
     <string name="blur_msg">To po precej povečalo uporabo pomnilnika</string>
     <string name="show_in_recent_title">Prikaži na oknu nedavnih programov</string>
@@ -151,6 +152,9 @@
     <string name="privacy_mode_msg">Izberi programe, za ketere nočeš prikazati vsebine</string>
     <string name="new_notification">Novo obvestilo</string>
     <string name="content_not_shown">Vsebina ni prikazana</string>
+    <string name="show_user_pic_msg">Show user picture in notification</string>
+    <string name="wear_theme_only">For Android Wear theme only</string>
+    <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
 
 
     <string-array name="immersive_mode">
