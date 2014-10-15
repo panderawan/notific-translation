@@ -152,11 +152,11 @@
     <string name="privacy_mode_msg">Укажите приложения, для которых содержимое уведомлений должно быть скрыто</string>
     <string name="new_notification">Новое уведомление</string>
     <string name="content_not_shown">Содержимое скрыто</string>
-    <string name="show_user_pic_msg">Show user picture in notification</string>
-    <string name="wear_theme_only">For Android Wear theme only</string>
-    <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
-    <string name="smart_screen_off_title">Smart auto off</string>
-    <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user</string>
+    <string name="show_user_pic_msg">Показывать фото пользователя в уведомлении</string>
+    <string name="wear_theme_only">Только для темы AndroidWear</string>
+    <string name="show_title_in_privacy_mode">Показывать заголовок в приватном режиме</string>
+    <string name="smart_screen_off_title">Умное отключение экрана</string>
+    <string name="smart_screen_off_msg">Не применяется если экран разблокирован вручную</string>
 
 
     <string-array name="immersive_mode">
