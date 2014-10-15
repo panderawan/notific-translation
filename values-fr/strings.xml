@@ -38,29 +38,24 @@
     <string name="title_section1">Tableau de bord</string>
     <string name="title_section2">Liste noire</string>
     <string name="title_section3">Paramètres</string>
-    <string name="navigation_drawer_open">Ouvrir le panneau de configuration</string>
-    <string name="navigation_drawer_close">Fermer le panneau de configuration</string>
-    <string name="action_example">Test</string>
+    <string name="navigation_drawer_open">Ouvrir le menu latéral</string>
+    <string name="navigation_drawer_close">Fermer le menu latéral</string>
+    <string name="action_example">Essai</string>
     <string name="action_settings">Paramètres</string>
     <string name="help">Aide</string>
-    <string name="about">A propos</string>
-    <string name="service_name">Centre de notification</string>
+    <string name="about">À propos</string>
+    <string name="service_name">Service de notification</string>
     <string name="view_notification">Aperçu</string>
-    <string name="dismiss_notification">Ecarter</string>
+    <string name="dismiss_notification">Effacer</string>
 
     <string name="main_menu_popup_timeout_title">Veille de l\'écran</string>
     <string name="main_menu_popup_timeout_description">Temps en seconde ou l\'écran reste allumé. Laissez ce champ vide ou nul pour appliquer les paramètres par défaut.</string>
     <string name="main_menu_popup_proximity_title">Délai du capteur de proximité</string>
-    <string name="main_menu_popup_proximity_description"> Combien de temps le capteur de proximité sera actif en mode "poche". Laissez ce champ vide pour 10sec par défaut. </string>
+    <string name="main_menu_popup_proximity_description">Combien de temps le capteur de proximité sera actif en mode "poche". Laissez ce champ vide pour 10sec par défaut. </string>
     <string name="main_menu_popup_orientation_title">Verrouiller l\'orientation</string>
     <string name="main_menu_popup_orientation_description">Ne pas modifier l\'orientation de la fenêtre lors du changement d\'orientation de l\'écran.</string>
-
-
-    <string name="about_dialog">\n\n<i>Conçu et développé par:</i>
-        \nAnanda Bibek Ray.
-        \n\nPour plus d\'informations et pour obtenir de l\'aide, voir lien ci dessous.
-    </string>
-
+    <string name="about_dialog">\n\n<i>Conçu et développé par :</i>\nAnanda Bibek Ray.
+        \n\nPour plus d\'informations et pour obtenir de l\'aide, voir lien ci-dessous.</string>
 
     <string name="free_version">Liste noire / Liste blanche cette fonction n\'est pas disponible dans la version gratuite de Notific. S\'il vous plaît mettez à niveau vers la version payante pour utiliser cette fonction et pour m\'encourager à faire progresser votre application préférée.
         \n\nMerci d\'utiliser Notific.</string>
@@ -79,108 +74,107 @@
     <string name="notification_settings">Paramètres de notifications</string>
     <string name="handle_lowPriority">Afficher les notifications moins importantes</string>
     <string name="handle_lowPriority_msg">Comme par exemple, les notifications Google Now</string>
-    <string name="expanded_title">Afficher les notifications élargies</string>
+    <string name="expanded_title">Afficher les notifications étendues</string>
     <string name="expanded_msg">Afficher les notifications \'boutons d\'action rapide si disponible</string>
-    <string name="sensor_settings_header">Réglages du capteur de proximité</string>
+    <string name="sensor_settings_header">Paramètres du capteur de proximité</string>
     <string name="screenOn_title">Allumer l\'écran</string>
     <string name="screenOn_msg">Allumer l\'écran à la réception d\'une nouvelle notification</string>
-    <string name="pocket_title">Activer le mode "poche"</string>
+    <string name="pocket_title">Activer le mode poche</string>
     <string name="pocket_msg">L\'écran s\'allume automatiquement lors de la sortie de la poche</string>
     <string name="orientation_title">Verrouiller le popup en mode portrait</string>
-    <string name="theme_header">Configuration du thème</string>
+    <string name="theme_header">Paramètres du thème</string>
     <string name="select_theme">Sélection du thème</string>
     <string name="wall_brightness_title">Luminosité du fond d\'écran</string>
     <string name="wall_brightness_msg">Mettre 0 pour mettre en noir</string>
     <string name="slider_padding_title">Glisser à gauche/droite pour remplissage</string>
     <string name="slider_padding_msg">Augmenter la valeur (en dp) pour réduire la largeur du curseur. Zéro ou vide par défaut</string>
-    <string name="immersive_title">Configurer mode plein écran</string>
-    <string name="immersive_msg">Choisir la manière de cacher</string>
+    <string name="immersive_title">Configurer mode immersif</string>
+    <string name="immersive_msg">Choisir quelles barres système masquer</string>
     <string name="troubleshoot_header">Options de dépannage</string>
-    <string name="alt_popup_title">Meilleure apparation du popup</string>
-    <string name="alt_popup_msg">Recommandé pour une meilleure stabilité, mais la popup apparaît un peu plus tard.</string>
-    <string name="calibration_enable">Utiliser un calibrage de capteur personnalisé</string>
+    <string name="alt_popup_title">Affichage alternatif du popup</string>
+    <string name="alt_popup_msg">Recommandé pour une meilleure stabilité, mais le popup apparaît un peu plus tard.</string>
+    <string name="calibration_enable">Calibrage personnalisé du capteur</string>
     <string name="calibration_msg">Utiliser cette option si vous rencontrez des problèmes avec le mode "poche"</string>
     <string name="calibrate_option">Calibrer le capteur</string>
     <string name="sensor_delay">Estimation du délai du capteur</string>
     <string name="sensor_delay_msg">Augmenter la valeur du capteur de proximité si cela ne fonctionne pas après calibration</string>
     <string name="warning">Attention</string>
     <string name="go_blacklist">Configurer la liste noire</string>
-    <string name="test_title_1">Test de notification 1</string>
-    <string name="test_body_1">Mr. Jingles dis bonjour!</string>
+    <string name="test_title_1">Essai notification 1</string>
+    <string name="test_body_1">Mr. Jingles dis bonjour !</string>
     <string name="action1">Action 1</string>
     <string name="action2">Action 2</string>
-    <string name="test_title_2">Test de notification 2</string>
-    <string name="test_body_2">Mr. Jingles Dis bonjour! Encore!!</string>
+    <string name="test_title_2">Essai notification 2</string>
+    <string name="test_body_2">Mr. Jingles dis bonjour ! Encore !!</string>
     <string name="quick_action">Action rapide</string>
     <string name="free">Version gratuite</string>
-    <string name="play_store">Mise a niveau via le Play Store</string>
+    <string name="play_store">Mise à jour via le Play Store</string>
     <string name="display_mode_title">Afficher popup quand</string>
-    <string name="permission_text">Cliquez ici pour configurer les permissions.</string>
-    <string name="screenlock_permission_text">Cliquez ici pour configurer la permission de l\'écran de verrouilage </string>
-    <string name="notif_access_grant">Accés aux notifications accordées </string>
-    <string name="notif_access_not_grant">Accés aux notifications non accordées</string>
-    <string name="service_active">Services en arrieres plan activés</string>
-    <string name="service_inactive">Services en arrière plan ne fonctionne pas</string>
+    <string name="permission_text">Appuyez ici pour configurer les autorisations</string>
+    <string name="screenlock_permission_text">Appuyez ici pour configurer l\'autorisation de l\'écran de verrouilage</string>
+    <string name="notif_access_grant">Accès aux notifications autorisé</string>
+    <string name="notif_access_not_grant">Accès aux notifications non autorisé</string>
+    <string name="service_active">Service en arrière plan activé</string>
+    <string name="service_inactive">Service en arrière plan ne fonctionne pas</string>
     <string name="working_correct">L\'application fonctionne correctement</string>
-    <string name="permission_again">Vérifier et redonner les permissions ou redémarrer l\'appareil</string>
-    <string name="perm_not_grant">Accés aux notifications autorisées</string>
-    <string name="lock_perm_ok">Accés à l\'écran de verrouillage autorisé</string>
-    <string name="lock_permission_not_grant">Accés à l\'écran de verrouillage non autorisé</string>
+    <string name="permission_again">Redonner l\'autorisation ou redémarrer l\'appareil</string>
+    <string name="perm_not_grant">Accès aux notifications non autorisé</string>
+    <string name="lock_perm_ok">Accès à l\'écran de verrouillage autorisé</string>
+    <string name="lock_permission_not_grant">Accès à l\'écran de verrouillage non autorisé</string>
     <string name="lock_msg_1">Requis pour l\'écran verrouillé</string>
     <string name="lock_msg_2"> Pour que Notific verrouille automatiquement l\'écran à la dernière notification rejetée</string>
     <string name="lock_msg_big">Requis pour que Notific verrouille automatiquement l\'écran lorsque vous fermez la dernière notification dans la liste</string>
     <string name="blacklist_mode">Liste blanche</string>
     <string name="whitelist_mode">Liste noire</string>
-    <string name="night_title">Activer mode de nuit</string>
-    <string name="night_msg">Notific ne sera pas actif pendant le temps définit</string>
-    <string name="night_start">Le mode nuit commence à :</string>
-    <string name="night_end">Le mode nuit fini à :</string>
+    <string name="night_title">Activer le mode nuit</string>
+    <string name="night_msg">Notific ne sera pas actif pendant le temps défini</string>
+    <string name="night_start">Début du mode nuit à :</string>
+    <string name="night_end">Fin du mode nuit à :</string>
     <string name="dont_change">Ne pas changer</string>
-    <string name="got_it">Je l\'ai!</string>
+    <string name="got_it">J\'ai compris !</string>
     <string name="developer">Développeur</string>
     <string name="links">Liens</string>
     <string name="credits">Crédits</string>
-    <string name="translators">Traduction par:
+    <string name="translators">Traduction par :
     \n\nAllemand : Christoph Seelbach
-    \n\nFrançais : Antoine Thenaisy, ZaGaPonG
+    \n\nFrançais : Antoine Thenaisy, ZaGaPonG, Micks29
     \n\nItalien : Roberto Darko
     \n\nSlovene : kv1dr
     \n\nRussian : Victor Lapin
     \n\nEspañol : Gil Almonte, KoubaK
     \n\nArabic : JetSub</string>
-    <string name="blur_title">Fond d\'écran floutté</string>
+    <string name="blur_title">Fond d\'écran flouté</string>
     <string name="blur_msg">Cela augmentera considérablement l\'utilisation mémoire</string>
-    <string name="show_in_recent_title">Show in recent apps\' screen</string>
-    <string name="show_in_recent_msg">Turn this on if you face popup getting stuck in wallpaper bug</string>
-    <string name="misc">Others</string>
-    <string name="action_btn_unlock_title">Action button unlock</string>
-    <string name="action_btn_unlock_msg">Unlock keyguard when notification\'s action buttons are pressed. [Only for AndroidWear theme]</string>
-    <string name="auto_off_msg">Turn off screen after dismissing last notification</string>
-    <string name="auto_off_title">Auto screen off</string>
-    <string name="title_section_privacy">Privacy Mode</string>
-    <string name="privacy_mode_msg">Mark those apps whose Notification contents should not be displayed</string>
-    <string name="new_notification">New Notification</string>
-    <string name="content_not_shown">Content not shown</string>
-    <string name="show_user_pic_msg">Show user picture in notification</string>
-    <string name="wear_theme_only">For Android Wear theme only</string>
-    <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
-    <string name="smart_screen_off_title">Smart auto off</string>
-    <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user</string>
+    <string name="show_in_recent_title">Afficher à l\'écran \"applications récentes\"</string>
+    <string name="show_in_recent_msg">Activer cela si vous avez un bug du fond d\'écran</string>
+    <string name="misc">Autres</string>
+    <string name="action_btn_unlock_title">Action bouton de déverrouillage</string>
+    <string name="action_btn_unlock_msg">Déverrouiller quand les boutons d\'action de notification sont pressés. [uniquement pour le thème Android Wear]</string>
+    <string name="auto_off_msg">Éteindre l\'écran après avoir effacer la dernière notification</string>
+    <string name="auto_off_title">Extinction auto de l\'écran</string>
+    <string name="title_section_privacy">Confidentialité</string>
+    <string name="privacy_mode_msg">Marquer les applis dont le contenu de notification ne doit pas être affiché</string>
+    <string name="new_notification">Nouvelle notification</string>
+    <string name="content_not_shown">Contenu non affiché</string>
+    <string name="show_user_pic_msg">Afficher une image dans la notification</string>
+    <string name="wear_theme_only">Uniquement pour le thème Android Wear</string>
+    <string name="show_title_in_privacy_mode">Afficher le titre en mode confidentiel</string>
+    <string name="smart_screen_off_title">Extinction auto intelligent</string>
+    <string name="smart_screen_off_msg">Ne pas appliquer l\'extinction auto quand déverrouillé par l\'utilisateur</string>
 
 
     <string-array name="immersive_mode">
         <item>Désactivé</item>
-        <item>Cacher la barre de navigation</item>
-        <item>Cacher la barre de statut</item>
-        <item>Cacher les deux</item>
+        <item>Masquer barre de navigation</item>
+        <item>Masquer barre d\'état</item>
+        <item>Masquer les deux</item>
     </string-array>
 
     <string-array name="display_mode">
-        <item>Ecran éteint ou sur l\'écran de verrouillage</item>
-        <item>Ecran éteint</item>
+        <item>Écran éteint ou sur l\'écran de verrouillage</item>
+        <item>Écran éteint</item>
         <item>Sur l\'écran de verrouillage</item>
-        <item>Ecran éteint et sur l\'écran de verrouillage</item>
+        <item>Écran éteint et sur l\'écran de verrouillage</item>
     </string-array>
 
 </resources>
-
