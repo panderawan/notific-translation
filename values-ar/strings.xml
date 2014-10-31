@@ -14,29 +14,6 @@
         <item>إخفاء شريط الإشعارات</item>
         <item>إخفاء الكل</item>
     </string-array>
-    <string-array name="sensor_delay">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="theme_names">
-        <item>NotifyMe legacy</item>
-        <item>Android Wear</item>
-    </string-array>
-    <string-array name="transparency">
-        <item>0</item>
-        <item>10</item>
-        <item>20</item>
-        <item>30</item>
-        <item>40</item>
-        <item>50</item>
-        <item>60</item>
-        <item>70</item>
-        <item>80</item>
-        <item>90</item>
-        <item>100</item>
-    </string-array>
 
 
     <string name="about">حول</string>
@@ -52,7 +29,6 @@ Ananda Bibek Ray.
     <string name="action_settings">إعدادات</string>
     <string name="alt_popup_msg">موصى به لإستقرار أفضل ، ولكن النافذة المنبثقة ستظهر متأخرة قليلًا.</string>
     <string name="alt_popup_title">آليّة إنبثاق بديلة</string>
-    <string name="app_name">Notific</string>
     <string name="auto_off_msg">إطفاء الشاشة بعد إستبعاد أخر إشعار</string>
     <string name="auto_off_title">إطفاء تلقائي للشاشة</string>
     <string name="blacklist_mode">نمط القائمة البيضاء</string>

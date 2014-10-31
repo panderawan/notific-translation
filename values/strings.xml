@@ -2,12 +2,14 @@
 <resources>
 
 
-    <string name="app_name">Notific</string>
-    <string-array name="theme_names">
+    <string name="app_name" translatable = "false">Notific</string>
+    <string-array name="theme_names"  translatable = "false">
         <item>NotifyMe legacy</item>
         <item>Android Wear</item>
+        <item>Ambient Dark</item>
     </string-array>
-    <string-array name="transparency">
+
+    <string-array name="transparency" translatable = "false">
         <item>0</item>
         <item>10</item>
         <item>20</item>
@@ -20,14 +22,15 @@
         <item>90</item>
         <item>100</item>
     </string-array>
-    <string-array name="sensor_delay">
+
+    <string-array name="sensor_delay_value" translatable = "false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
     </string-array>
 
-    <string name="about_dialog_header" translatable = "false">Notific 2.50 (Paid)</string>
+    <string name="about_dialog_header" translatable = "false">Notific 2.60 (Paid)</string>
 
 
     <!--================================================-->
