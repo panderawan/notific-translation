@@ -100,14 +100,6 @@
     <string name="developer">Razvijalec</string>
     <string name="links">Povezave</string>
     <string name="credits">Zahvale</string>
-    <string name="translators">Prevajalci:
-    \n\nNemščina : Christoph Seelbach
-    \n\nFrancoščina : Antoine Thenaisy, ZaGaPonG
-    \n\nItalijanščina : Roberto Darko
-    \n\nSlovenščina : kv1dr
-    \n\nRussian : Victor Lapin
-    \n\nEspañol : Gil Almonte, KoubaK
-    \n\nArabic : JetSub</string>
     <string name="blur_title">Zamegljenost ozadja</string>
     <string name="blur_msg">To po precej povečalo uporabo pomnilnika</string>
     <string name="show_in_recent_title">Prikaži na oknu nedavnih programov</string>
@@ -126,6 +118,9 @@
     <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
     <string name="smart_screen_off_title">Smart auto off</string>
     <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user</string>
+    <string name="disable_admin">Click to disable Device Administrator</string>
+    <string name="enable_wakelock_title">Enable wakelock</string>
+    <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
 
 
     <string-array name="immersive_mode">

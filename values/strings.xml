@@ -30,7 +30,18 @@
         <item>3</item>
     </string-array>
 
-    <string name="about_dialog_header" translatable = "false">Notific 2.60 (Paid)</string>
+
+    <string name="translators" translatable="false">Translations by:
+    \n\nGerman : Christoph Seelbach
+    \n\nFrench : Antoine Thenaisy, ZaGaPonG
+    \n\nItalian : Roberto Darko
+    \n\nSlovene : kv1dr
+    \n\nRussian : Victor Lapin
+    \n\nEspañol : Gil Almonte, KoubaK
+    \n\nArabic : JetSub
+    \n\nPortuguese : Hélder Palma</string>
+
+    <string name="about_dialog_header" translatable = "false">Notific 3.20 (Free)</string>
 
 
     <!--================================================-->
@@ -124,7 +135,7 @@
     <string name="lock_perm_ok">Screen lock permission granted</string>
     <string name="lock_permission_not_grant">Screen lock permission not granted</string>
     <string name="lock_msg_1">Required for screen lock</string>
-    <string name="lock_msg_2">For Notific to automatically lock the screen on last notification dismiss</string>
+    <string name="lock_msg_2">To automatically lock the screen on last notification dismiss</string>
     <string name="lock_msg_big">Required for Notific to automatically lock the screen when you dismiss last notification in list</string>
     <string name="blacklist_mode">Whitelist mode</string>
     <string name="whitelist_mode">Blacklist mode</string>
@@ -137,14 +148,6 @@
     <string name="developer">Developer</string>
     <string name="links">Links</string>
     <string name="credits">Credits</string>
-    <string name="translators">Translations by:
-    \n\nGerman : Christoph Seelbach
-    \n\nFrench : Antoine Thenaisy, ZaGaPonG
-    \n\nItalian : Roberto Darko
-    \n\nSlovene : kv1dr
-    \n\nRussian : Victor Lapin
-    \n\nEspañol : Gil Almonte, KoubaK
-    \n\nArabic : JetSub</string>
     <string name="blur_title">Blur background</string>
     <string name="blur_msg">This will significantly increase memory usage</string>
     <string name="show_in_recent_title">Show in recent apps\' screen</string>
@@ -162,7 +165,10 @@
     <string name="wear_theme_only">For Android Wear theme only</string>
     <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
     <string name="smart_screen_off_title">Smart auto off</string>
-    <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user</string>
+    <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user (30sec after notification) </string>
+    <string name="disable_admin">Click to disable Device Administrator</string>
+    <string name="enable_wakelock_title">Enable wakelock</string>
+    <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
 
 
     <string-array name="immersive_mode">

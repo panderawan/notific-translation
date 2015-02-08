@@ -99,15 +99,7 @@
 	<string name="developer">Diseñador</string>
 	<string name="links">Enlaces</string>
 	<string name="credits">Créditos</string>
-	<string name="translators">Traducciones por:
-	\n\nAlemán : Christoph Seelbach
-	\n\nFrancés : Antoine Thenaisy, ZaGaPonG
-	\n\nItaliano : Roberto Darko
-	\n\nEsloveno : kv1dr
-    \n\nRussian : Victor Lapin
-    \n\nEspañol : Gil Almonte, KoubaK
-    \n\nArabic : JetSub</string>
-	<string name="blur_title">Desenfoque el fondo</string>
+    <string name="blur_title">Desenfoque el fondo</string>
 	<string name="blur_msg">Esta opción aumentará significativamente el uso de memoria. </string>
 	<string name="show_in_recent_title">Mostrar en Reciente Aplicaciones</string>
 	<string name="show_in_recent_msg">Active esta opción si los pop-ups quedan atascados en el fondo.</string>
@@ -125,6 +117,9 @@
     <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
     <string name="smart_screen_off_title">Smart auto off</string>
     <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user</string>
+    <string name="disable_admin">Click to disable Device Administrator</string>
+    <string name="enable_wakelock_title">Enable wakelock</string>
+    <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
 
 
     <string-array name="immersive_mode">

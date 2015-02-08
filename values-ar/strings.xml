@@ -111,17 +111,6 @@ Ananda Bibek Ray.
     <string name="title_section2">القائمة السوداء</string>
     <string name="title_section3">الإعدادات</string>
     <string name="title_section_privacy">وضع الخصوصية</string>
-    <string name="translators">"ترجم بواسطة: 
-
-العربية : JetSub
-
-German : Christoph Seelbach 
-
-French : Antoine Thenaisy, ZaGaPonG 
-
-Italian : Roberto Darko 
-
-Slovene : kv1dr"</string>
     <string name="troubleshoot_header">خيارات إستكشاف الأخطاء وإصلاحها</string>
     <string name="view_notification">عرض</string>
     <string name="wall_brightness_msg">ضع القيمة صفر لتجعل الخلفية سوداء</string>
@@ -146,4 +135,7 @@ Slovene : kv1dr"</string>
     <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
     <string name="smart_screen_off_title">Smart auto off</string>
     <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user</string>
+    <string name="disable_admin">Click to disable Device Administrator</string>
+    <string name="enable_wakelock_title">Enable wakelock</string>
+    <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
 </resources>

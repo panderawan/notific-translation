@@ -102,14 +102,6 @@
     <string name="developer">Développeur</string>
     <string name="links">Liens</string>
     <string name="credits">Crédits</string>
-    <string name="translators">Traduction par :
-    \n\nAllemand : Christoph Seelbach
-    \n\nFrançais : Antoine Thenaisy, ZaGaPonG, Micks29
-    \n\nItalien : Roberto Darko
-    \n\nSlovene : kv1dr
-    \n\nRussian : Victor Lapin
-    \n\nEspañol : Gil Almonte, KoubaK
-    \n\nArabic : JetSub</string>
     <string name="blur_title">Fond d\'écran flouté</string>
     <string name="blur_msg">Cela augmentera considérablement l\'utilisation mémoire</string>
     <string name="show_in_recent_title">Afficher à l\'écran \"applications récentes\"</string>
@@ -128,6 +120,9 @@
     <string name="show_title_in_privacy_mode">Afficher le titre en mode confidentiel</string>
     <string name="smart_screen_off_title">Extinction auto intelligent</string>
     <string name="smart_screen_off_msg">Ne pas appliquer l\'extinction auto quand déverrouillé par l\'utilisateur</string>
+    <string name="disable_admin">Click to disable Device Administrator</string>
+    <string name="enable_wakelock_title">Enable wakelock</string>
+    <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
 
 
     <string-array name="immersive_mode">

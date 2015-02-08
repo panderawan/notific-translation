@@ -101,13 +101,6 @@
     <string name="developer">Разработчик</string>
     <string name="links">Ссылки</string>
     <string name="credits">Благодарности</string>
-    <string name="translators">Перевод:
-    \n\nНемецкий : Christoph Seelbach
-    \n\nФранцузский : Antoine Thenaisy, ZaGaPonG
-    \n\nИтальянский : Roberto Darko
-    \n\nСловенский : kv1dr
-    \n\nРусский : Victor Lapin
-    \n\nИспанский : Gil Almonte, KoubaK</string>
     <string name="blur_title">Размытие фона</string>
     <string name="blur_msg">Это существенно увеличит объем потребляемой памяти</string>
     <string name="show_in_recent_title">Показывать в недавно запущенных приложениях</string>
@@ -126,6 +119,9 @@
     <string name="show_title_in_privacy_mode">Показывать заголовок в приватном режиме</string>
     <string name="smart_screen_off_title">Умное отключение экрана</string>
     <string name="smart_screen_off_msg">Не применяется если экран разблокирован вручную</string>
+    <string name="disable_admin">Click to disable Device Administrator</string>
+    <string name="enable_wakelock_title">Enable wakelock</string>
+    <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
 
 
     <string-array name="immersive_mode">
