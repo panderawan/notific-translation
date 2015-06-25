@@ -136,5 +136,18 @@
     <string name="disable_admin">Click to disable Device Administrator</string>
     <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
     <string name="enable_wakelock_title">Enable wakelock</string>
+    <string name="long_press_title">Show contents on long press</string>
+    <string name="long_press_summary">Reveal notification details in privacy mode when long pressed on notification</string>
+    <string name="repeat_notification_heading">Recurring Notifications</string>
+    <string name="repeat_notification_enable">Enable Recurring notification</string>
+    <string name="repeat_notification_enable_desc">Allow Notific to make notification popups reappear if you haven\'t already checked them</string>
+    <string name="repeat_interval">Reappearance interval</string>
+    <string name="repeat_interval_desc">Time interval in minutes after which popup will show again (default: every 5mins)</string>
+    <string name="stop_repeat_time">Stop reappearing after</string>
+    <string name="stop_repeat_time_desc">Time in minutes when notifications will stop reappearing (default: 30mins)</string>
+    <string name="upgrade_to_pro_msg">If you enjoy using the free version, please consider upgrading to the Pro version to support the developer and enable Privacy Guard Settings</string>
+    <string name="no">No</string>
+    <string name="go_play_store">Go to Play Store</string>
+    <string name="num_notifications_displayed_banner_msg">Notifications displayed</string>
 
 </resources>
