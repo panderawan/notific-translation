@@ -134,6 +134,14 @@
     <string name="no">No</string>
     <string name="go_play_store">Go to Play Store</string>
     <string name="num_notifications_displayed_banner_msg">Notifications displayed</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="uninstall_msg">Device Admin has been disabled. Now you can uninstall the app normally.</string>
+    <string name="run_foreground_title">Run service in foreground</string>
+    <string name="run_foreground_msg">Persistent notification is shown. Necessary to keep service alive if your OS kills it frequently</string>
+    <string name="service_running_title">Notific service is running</string>
+    <string name="click_for_more_info">Click for more information</string>
+    <string name="hide_notification_title">Force hide notification</string>
+    <string name="hide_notification_msg">Experimental. May not work, or service may still be killed. \nReboot after changing</string>
 
 
     <string-array name="immersive_mode">

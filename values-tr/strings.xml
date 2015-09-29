@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_section1">Gösterge Paneli</string>
+    <string name="title_section2">Kara Liste</string>
+    <string name="title_section3">Ayarlar</string>
+    <string name="navigation_drawer_open">Yönlendirme çubuğunu göster.</string>
+    <string name="navigation_drawer_close">Yönlendrme çubuğunu gösterme.</string>
+    <string name="action_example">Test</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="help">Yardım</string>
+    <string name="about">Hakkında</string>
+    <string name="service_name">BildirimServisi</string>
+    <string name="view_notification">Göster</string>
+    <string name="dismiss_notification">Reddet</string>
+
+    <string name="main_menu_popup_timeout_title">Ekran zaman aşımı</string>
+    <string name="main_menu_popup_timeout_description">Bildirim ekran üzerinde kaç saniye kalsın? Boş bırakırsanız varsayılan yani sıfır(0) geçerli olur.</string>
+    <string name="main_menu_popup_proximity_title">Yakınlık sensörü zaman aşımı</string>
+    <string name="main_menu_popup_proximity_description">Yakınlık sensörü ne zaman aktif olsun? Varsayılan değer 10 saniye.</string>
+    <string name="main_menu_popup_orientation_title">Kilit Yönlendirme</string>
+    <string name="main_menu_popup_orientation_description">Cihaz eğik geldiğinde açılan yönünü değiştirin.</string>
+    <string name="about_dialog"><i>Tasarım ve Geliştirici :</i>         \nAnanda Bibek Ray.
+        \n\nDaha fazla seçenek ve yardım, istek, şikayet için linke tıkla.</string>
+    <string name="free_version">Ücretsiz sürümde Kara Liste/Beyaz Liste işlemi kullanılanilir değil. Lütfen sürümü yükseltip kullanmaya başla.
+        \n\nNotific kullandığın için teşekkür ederiz.</string>
+
+    <string name="warning_blacklist">Kara Liste\'yi değiştiriyorsunuz. Bu modda, eğer işaretli olanlar DIŞINDAKİ TÜM uygulamalar için notific pop-up edineceğim.
+        \n\nHangi pop-up almak istiyorum bu uygulamalar işaretlemeyin.</string>
+
+    <string name="warning_whitelist">Beyaz liste modu değişiyor. Bu modda, işaretledikten SADECE uygulamalar için notific pop-up alacak.
+        \n\nHangi pop-up almak istiyorum bu uygulamalar İŞARETLEMEK İÇİN UNUTMA.</string>
+
+    <string name="warning_test_white">Bırakmış gibi görünüyor"Beyaz liste modu". Bu modda, işaretledikten SADECE uygulamalar için notific pop-up alacak.
+        \n\nEğer fonksiyon TESTİ çalışmak istiyorsanız, beyaz ayarı Notific işaretlemek gerekir. </string>
+
+    <string name="warning_test_black">Notific kara listeye eklendi!
+        \n\nEğer fonksiyon TESTİ çalışmak istiyorsanız, kara ayarı Notific işaretini Kaldır. </string>
+    <string name="notification_settings">Bildirim ayarları</string>
+    <string name="handle_lowPriority">Düşük öncelikli bildirimleri göster.</string>
+    <string name="handle_lowPriority_msg">Örneğin, Google asistan hava durumu kartları.</string>
+    <string name="expanded_title">Genişletilmiş bildirimleri göster</string>
+    <string name="expanded_msg">Bildirimleri göster\' hızlı eylem düğmeleri kullanılabilir.</string>
+    <string name="sensor_settings_header">Sensör ayarları</string>
+    <string name="screenOn_title">Ekranı Döndür</string>
+    <string name="screenOn_msg">Yeni bildirim geldiğinde ekranı aç.</string>
+    <string name="pocket_title">Cep modunu etkinleştir.</string>
+    <string name="pocket_msg">Ekran yakınlık sensörü kontrol ederek cebinden alınan sonra dönecek.</string>
+    <string name="orientation_title">Kilit dikey açılır.</string>
+    <string name="theme_header">Tema ayarları</string>
+    <string name="select_theme">Tema seç</string>
+    <string name="wall_brightness_title">Duvarkağıdı parlaklığı</string>
+    <string name="wall_brightness_msg">Tam karanlık(siyah) için sıfır(0) yazın.</string>
+    <string name="slider_padding_title">Kaydırma Sol/Sağ doldurma</string>
+    <string name="slider_padding_msg">Değer (dp) kaydırma genişliğini düşürebilirsiniz. Sıfır veya varsayılan için boş </string>
+    <string name="immersive_title">Yapılandırma sürükleyici modu</string>
+    <string name="immersive_msg">Gizlenecek sistem çizgilerini seç.</string>
+    <string name="troubleshoot_header">Sorun giderme seçenekleri</string>
+    <string name="alt_popup_title">Alternatif pop-up mekanizması</string>
+    <string name="alt_popup_msg">Daha iyi stabilite için tavsiye, ama pop-up biraz geç görünür.</string>
+    <string name="calibration_enable">Özel sensör kalibrasyonu</string>
+    <string name="calibration_msg">Eğer cep modu ile sorunlarınız varsa bunu kullanın </string>
+    <string name="calibrate_option">Kalibre sensörü</string>
+    <string name="sensor_delay">Sensör yoklama gecikmesi</string>
+    <string name="sensor_delay_msg">Yakınlık sensörü ise değeri bile kalibrasyon çalışmıyor ise sayısı arttırın.</string>
+    <string name="warning">HATA!</string>
+    <string name="go_blacklist">Kara liste ayarlarına git.</string>
+    <string name="test_title_1">Test bildirimi 1</string>
+    <string name="test_body_1">Ali, Merhaba! diyor.</string>
+    <string name="action1">Eylem 1</string>
+    <string name="action2">Eylem 2</string>
+    <string name="test_title_2">Test bildirimi 2</string>
+    <string name="test_body_2">Ali, tekrar Marhaba! diyor.</string>
+    <string name="quick_action">Hızlı seçenekler</string>
+    <string name="free">Ücretsiz sürümü</string>
+    <string name="play_store">Play store ile Pro sürüm al.</string>
+    <string name="display_mode_title">Pop-up\'u ne zaman göstersin.</string>
+    <string name="permission_text">İzinler için Yapılandır\'a tıklayın. </string>
+    <string name="screenlock_permission_text">Ekran kilitini Yapılandırmak için buraya tıklayın.</string>
+    <string name="notif_access_grant">Bildirim izni verildi!</string>
+    <string name="notif_access_not_grant">Bildirim izni verilmedi!</string>
+    <string name="service_active">Arka plan hizmeti aktif.</string>
+    <string name="service_inactive">Arka plan hizmeti aktif değil.</string>
+    <string name="working_correct">Uygulama düzgün çalışıyor </string>
+    <string name="permission_again">Tekrar izin vermek ya da cihazı yeniden başlatın </string>
+    <string name="perm_not_grant">Bildirim erişim izni verilmeyen!</string>
+    <string name="lock_perm_ok">Ekran kilidi izni verildi!</string>
+    <string name="lock_permission_not_grant">Ekran kilidi izni verilmedi!</string>
+    <string name="lock_msg_1">Ekran kilidi için gerekli</string>
+    <string name="lock_msg_2">Otomatik olarak son bildirim ekranını kapatın kilitleyin </string>
+    <string name="lock_msg_big">Notific için otomatik olarak liste son bildirim kapatmak için ekranı kilitlemek gerekli.</string>
+    <string name="blacklist_mode">Beyaz Liste modu</string>
+    <string name="whitelist_mode">Kara Liste modu</string>
+    <string name="night_title">Gece modu aktif.</string>
+    <string name="night_msg">Notific verilen süre boyunca aktif olacak.</string>
+    <string name="night_start">Gece Modu başlar</string>
+    <string name="night_end">Gece Modu biter</string>
+    <string name="dont_change">Değiştirme</string>
+    <string name="got_it">Buldum!</string>
+    <string name="developer">Geliştirici</string>
+    <string name="links">Link</string>
+    <string name="credits">Saygılarımla</string>
+    <string name="blur_title">Bulanıklık arka plan</string>
+    <string name="blur_msg">Bu önemli ölçüde bellek kullanımı artacak </string>
+    <string name="show_in_recent_title">Ekranda son kullanılan uygulamaları göster.</string>
+    <string name="show_in_recent_msg">Pop-up duvarkağıdı hata verirse tıkla.</string>
+    <string name="misc">Diğerleri</string>
+    <string name="action_btn_unlock_title">Eylem düğmesi kilidini</string>
+    <string name="action_btn_unlock_msg">Unlock keyguard when notification\'s action buttons are pressed. [Only for AndroidWear theme]</string>
+    <string name="auto_off_msg">Son bildirim kayıtsız sonra ekranı kapat</string>
+    <string name="auto_off_title">Otomatik ekran kapalı.</string>
+    <string name="title_section_privacy">Gizlilik Modu</string>
+    <string name="privacy_mode_msg">Görüntülenecek olan uygulamalar </string>
+    <string name="new_notification">Yeni bildirim.</string>
+    <string name="content_not_shown">İçerik gösterilmiyor</string>
+    <string name="show_user_pic_msg">Bildirimde kullanıcı resimlerini göster</string>
+    <string name="wear_theme_only">Android Wear için sadece tema.</string>
+    <string name="show_title_in_privacy_mode">Gizlilik modunun başlıkları</string>
+    <string name="smart_screen_off_title">Akıllı otomatik kapalı.</string>
+    <string name="smart_screen_off_msg">Otomatik açtığınızda kullanıcı tarafından (en çok 30 saniye sonra bildirim)kilidi uygulamak kapatmayın </string>
+    <string name="disable_admin">Aygıt Yöneticisi devre dışı bırakmak için tıklatın </string>
+    <string name="enable_wakelock_title">Wakelock etkinleştir</string>
+    <string name="enable_wakelock_msg">Bu ekranda eğer açmak değil, otomatik olarak bazen açın </string>
+    <string name="long_press_title">Uzun basın üzerinde içeriğini göster </string>
+    <string name="long_press_summary">Gizlilik modunda bildirim detayları uzun bildirim basıldığında ortaya çıkar.</string>
+    <string name="repeat_notification_heading">Yenilenen Bildirimler</string>
+    <string name="repeat_notification_enable">Yenieden Bildirimleri etkinleştir </string>
+    <string name="repeat_notification_enable_desc">Notific bildirim popup izinleri verilmemiş.</string>
+    <string name="repeat_interval">Yeniden ortaya çıkma aralığı</string>
+    <string name="repeat_interval_desc">Zaman sonra yeniden açılan (varsayılan: 5 dakika)gösterecektir.</string>
+    <string name="stop_repeat_time">Sonra yeniden görünmesini dur </string>
+    <string name="stop_repeat_time_desc">Bildirimleri yeniden görünmesini duracak zaman (varsayılan: 30saniye)</string>
+    <string name="upgrade_to_pro_msg">Eğer ücretsiz sürümü kullanıyorsanız tadını çıkarın, lütfen geliştirici desteği ve Gizlilik Koruma Ayarları etkinleştirmek için Pro sürümüne yükseltin. </string>
+    <string name="no">Hayır</string>
+    <string name="go_play_store">Play Store\'ye git.</string>
+    <string name="num_notifications_displayed_banner_msg">Bildirimler devre dışı bırakıldı.</string>
+
+
+    <string-array name="immersive_mode">
+        <item>Devre Dışı</item>
+        <item>Navigasyon çubuğunu gizle(alt geri-home tuşları)</item>
+        <item>Durum çubuğunu gizle</item>
+        <item>Her ikisinide gizle.</item>
+    </string-array>
+
+    <string-array name="display_mode">
+        <item>Screen off OR on lockscreen</item>
+        <item>Ekran kapalı</item>
+        <item>On lockscreen</item>
+        <item>Screen off AND on lockscreen</item>
+    </string-array>
+    <string name="uninstall_msg">Device Admin has been disabled. Now you can uninstall the app normally.</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="run_foreground_title">Run service in foreground</string>
+    <string name="run_foreground_msg">Persistent notification is shown. Necessary to keep service alive if your OS kills it frequently</string>
+    <string name="service_running_title">Notific service is running</string>
+    <string name="click_for_more_info">Click for more information</string>
+    <string name="hide_notification_title">Force hide notification</string>
+    <string name="hide_notification_msg">Experimental. May not work, or service may still be killed. \nReboot after changing</string>
+</resources>
