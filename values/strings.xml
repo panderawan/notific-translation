@@ -136,7 +136,7 @@
     <string name="lock_perm_ok">Screen lock permission granted</string>
     <string name="lock_permission_not_grant">Screen lock permission not granted</string>
     <string name="lock_msg_1">Required for screen lock</string>
-    <string name="lock_msg_2">To automatically lock the screen on last notification dismiss</string>
+    <string name="lock_msg_2">(Uninstall enabled) Required to automatically lock the screen on last notification dismiss</string>
     <string name="lock_msg_big">Required for Notific to automatically lock the screen when you dismiss last notification in list</string>
     <string name="blacklist_mode">Whitelist mode</string>
     <string name="whitelist_mode">Blacklist mode</string>
@@ -167,7 +167,7 @@
     <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
     <string name="smart_screen_off_title">Smart auto off</string>
     <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user (30sec after notification) </string>
-    <string name="disable_admin">Click to disable Device Administrator</string>
+    <string name="disable_admin">(Uninstall option blocked) Click to disable Device Administrator before uninstalling</string>
     <string name="enable_wakelock_title">Enable wakelock</string>
     <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
     <string name="long_press_title">Show contents on long press</string>
