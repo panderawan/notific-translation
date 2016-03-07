@@ -157,5 +157,13 @@
     <string name="click_for_more_info">Click for more information</string>
     <string name="hide_notification_title">Force hide notification</string>
     <string name="hide_notification_msg">Experimental. May not work, or service may still be killed. \nReboot after changing</string>
+    <string name="after_unlock_title">After unlocking, show</string>
+    <string name="time_saved">Time saved :</string>
+    <string name="type_message_prompt">Type a message</string>
+    <string name="send">Send</string>
+    <string name="whatsapp_convo_mode">Whatsapp conversation mode</string>
+    <string name="convo_mode_help_msg">Show separate notification for every contact. Makes it easy to use Notific direct reply feature</string>
+    <string name="double_tap_sleep">Double tap to sleep</string>
+    <string name="double_tap_sleep_detail">Double tap empty space on popup screen to turn off screen</string>
 
 </resources>
