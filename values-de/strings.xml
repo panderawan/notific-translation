@@ -167,4 +167,9 @@ Vergessen Sie nicht die Apps zu makieren von denen Sie Popups erhalten möchten.
         <item>Screen off AND on lockscreen</item>
     </string-array>
 
+    <string-array name="after_unlock_mode">
+        <item>If unseen</item>
+        <item>Never</item>
+    </string-array>
+
 </resources>

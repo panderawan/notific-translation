@@ -165,4 +165,9 @@
 		<item>Pantalla Apagada y en pantalla de bloqueo</item>
 	</string-array>
 
+	<string-array name="after_unlock_mode">
+		<item>If unseen</item>
+		<item>Never</item>
+	</string-array>
+
 </resources>

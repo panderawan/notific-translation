@@ -133,6 +133,12 @@
         <item>On lockscreen</item>
         <item>Screen off AND on lockscreen</item>
     </string-array>
+
+    <string-array name="after_unlock_mode">
+        <item>If unseen</item>
+        <item>Never</item>
+    </string-array>
+
     <string name="disable_admin">Click to disable Device Administrator</string>
     <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
     <string name="enable_wakelock_title">Enable wakelock</string>

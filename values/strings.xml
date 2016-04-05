@@ -217,7 +217,7 @@
         <item>Screen off AND on lockscreen</item>
     </string-array>
 
-    <string-array name="after_unlock_mode" translatable="false">
+    <string-array name="after_unlock_mode">
         <item>If unseen</item>
         <item>Never</item>
     </string-array>

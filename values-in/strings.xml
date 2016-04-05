@@ -171,7 +171,7 @@
         <item>Layar mati DAN layar kunci</item>
     </string-array>
 
-    <string-array name="after_unlock_mode" translatable="false">
+    <string-array name="after_unlock_mode">
         <item>If unseen</item>
         <item>Never</item>
     </string-array>

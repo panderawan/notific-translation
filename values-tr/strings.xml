@@ -148,6 +148,12 @@
         <item>On lockscreen</item>
         <item>Screen off AND on lockscreen</item>
     </string-array>
+
+    <string-array name="after_unlock_mode">
+        <item>If unseen</item>
+        <item>Never</item>
+    </string-array>
+
     <string name="uninstall_msg">Device Admin has been disabled. Now you can uninstall the app normally.</string>
     <string name="uninstall">Uninstall</string>
     <string name="run_foreground_title">Run service in foreground</string>
