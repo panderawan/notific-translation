@@ -105,56 +105,56 @@
     <string name="developer">Sviluppatore</string>
     <string name="links">Links</string>
     <string name="credits">Crediti</string>
-    <string name="blur_title">Blur background</string>
-    <string name="blur_msg">This will significantly increase memory usage</string>
-    <string name="show_in_recent_title">Show in recent apps\' screen</string>
-    <string name="show_in_recent_msg">Turn this on if you face popup getting stuck in wallpaper bug</string>
-    <string name="misc">Others</string>
-    <string name="action_btn_unlock_title">Action button unlock</string>
-    <string name="action_btn_unlock_msg">Unlock keyguard when notification\'s action buttons are pressed. [Only for AndroidWear theme]</string>
-    <string name="auto_off_msg">Turn off screen after dismissing last notification</string>
+    <string name="blur_title">Sfondo sfuocato</string>
+    <string name="blur_msg">Questo aumenterà automaticamente l’uso della memoria</string>
+    <string name="show_in_recent_title">Mostra in app recenti\schermo</string>
+    <string name="show_in_recent_msg">Spuntalo se il pop up rimane in bug sullo sfondo</string>
+    <string name="misc">Altro</string>
+    <string name="action_btn_unlock_title">Aziona il pulsante di blocco</string>
+    <string name="action_btn_unlock_msg">Sblocca quando premi sui pulsanti di azione della notifica. [solo per il tema AndroidWear ]</string>
+    <string name="auto_off_msg">Spengi lo schermo dopo aver rimosso l’ultima notifica </string>
     <string name="auto_off_title">Auto screen off</string>
-    <string name="title_section_privacy">Privacy Mode</string>
-    <string name="privacy_mode_msg">Mark those apps whose Notification contents should not be displayed</string>
-    <string name="new_notification">New Notification</string>
-    <string name="content_not_shown">Content not shown</string>
-    <string name="show_user_pic_msg">Show user picture in notification</string>
-    <string name="wear_theme_only">For Android Wear theme only</string>
-    <string name="show_title_in_privacy_mode">Show title in privacy mode</string>
-    <string name="smart_screen_off_title">Smart auto off</string>
-    <string name="smart_screen_off_msg">Do not apply auto turn off when unlocked by user</string>
-    <string name="disable_admin">Click to disable Device Administrator</string>
-    <string name="enable_wakelock_title">Enable wakelock</string>
-    <string name="enable_wakelock_msg">Turn this on if screen doesn\'t turn on automatically sometimes</string>
-    <string name="long_press_title">Show contents on long press</string>
-    <string name="long_press_summary">Reveal notification details in privacy mode when long pressed on notification</string>
-    <string name="repeat_notification_heading">Recurring Notifications</string>
-    <string name="repeat_notification_enable">Enable Recurring notification</string>
-    <string name="repeat_notification_enable_desc">Allow Notific to make notification popups reappear if you haven\'t already checked them</string>
-    <string name="repeat_interval">Reappearance interval</string>
-    <string name="repeat_interval_desc">Time interval in minutes after which popup will show again (default: every 5mins)</string>
-    <string name="stop_repeat_time">Stop reappearing after</string>
-    <string name="stop_repeat_time_desc">Time in minutes when notifications will stop reappearing (default: 30mins)</string>
-    <string name="upgrade_to_pro_msg">If you enjoy using the free version, please consider upgrading to the Pro version to support the developer and enable Privacy Guard Settings</string>
+    <string name="title_section_privacy">Modalità privacy </string>
+    <string name="privacy_mode_msg">Segna le applicazioni che generano notifiche i cui contenuti non devono essere mostrati</string>
+    <string name="new_notification">Nuova Notifica</string>
+    <string name="content_not_shown">Contenuto non mostrato</string>
+    <string name="show_user_pic_msg">Mostra la foto dell’utente nell’immagine di notifica </string>
+    <string name="wear_theme_only">Solo per il tema Android Wear </string>
+    <string name="show_title_in_privacy_mode">Mostra il titolo in modalità privacy </string>
+    <string name="smart_screen_off_title">auto spegnimento intelligente</string>
+    <string name="smart_screen_off_msg">non applicare spegnimento intelligente quando sbloccato dall’utente</string>
+    <string name="disable_admin">Clicca per disabilitare amministratore del dispositivo </string>
+    <string name="enable_wakelock_title">Abilita wakelock</string>
+    <string name="enable_wakelock_msg">Spuntalo se lo schermo non si accende automaticamente a volte</string>
+    <string name="long_press_title">Mostra il contenuto quando tieni premuto sulla notifica </string>
+    <string name="long_press_summary">Mostra i dettagli di notifica nella modalità privacy quando tieni premuto sulla notifica</string>
+    <string name="repeat_notification_heading">Notifiche ricorrenti </string>
+    <string name="repeat_notification_enable">Abilita le notifiche ricorrenti </string>
+    <string name="repeat_notification_enable_desc">Consenti a Notific di far riapparire il po up se non lo hai ancora visto</string>
+    <string name="repeat_interval">Intervallo per la ripetizione del popup </string>
+    <string name="repeat_interval_desc">Intervallo di tempo in minuti oltre il quale il popup si mostrerà nuovamente (default: ogni 5 minuti)</string>
+    <string name="stop_repeat_time">Basta riapparire dopo </string>
+    <string name="stop_repeat_time_desc">Tempo in minuti oltre il quale le notifiche smetteranno di riapparire (default: 30 minuti) </string>
+    <string name="upgrade_to_pro_msg">Se ti è piaciuta la versione gratuita, gentilmente considera l’idea di passare alla versione Pro per supportare lo sviluppatore e abilitare ulteriori impostazioni di privacy</string>
     <string name="no">No</string>
-    <string name="go_play_store">Go to Play Store</string>
-    <string name="num_notifications_displayed_banner_msg">Notifications displayed</string>
-    <string name="uninstall">Uninstall</string>
-    <string name="uninstall_msg">Device Admin has been disabled. Now you can uninstall the app normally.</string>
-    <string name="run_foreground_title">Run service in foreground</string>
-    <string name="run_foreground_msg">Persistent notification is shown. Necessary to keep service alive if your OS kills it frequently</string>
-    <string name="service_running_title">Notific service is running</string>
-    <string name="click_for_more_info">Click for more information</string>
-    <string name="hide_notification_title">Force hide notification</string>
-    <string name="hide_notification_msg">Experimental. May not work, or service may still be killed. \nReboot after changing</string>
-    <string name="after_unlock_title">After unlocking, show</string>
-    <string name="time_saved">Time saved :</string>
-    <string name="type_message_prompt">Type a message</string>
-    <string name="send">Send</string>
-    <string name="whatsapp_convo_mode">Whatsapp conversation mode</string>
-    <string name="convo_mode_help_msg">Show separate notification for every contact. Makes it easy to use Notific direct reply feature</string>
-    <string name="double_tap_sleep">Double tap to sleep</string>
-    <string name="double_tap_sleep_detail">Double tap empty space on popup screen to turn off screen</string>
+    <string name="go_play_store">Vai a Google Play Store </string>
+    <string name="num_notifications_displayed_banner_msg">Notifiche mostrate </string>
+    <string name="uninstall">Disinstalla </string>
+    <string name="uninstall_msg">Amministratore di dispositivo è stato disabilitato. Ora puoi disinstallare l’app normalmente. </string>
+    <string name="run_foreground_title">Servizio attivo in foreground </string>
+    <string name="run_foreground_msg">E’ mostrata una notifica persistente. E’ necessario teere il servizio attivo se il tuo OS lo disabiluta di frequente</string>
+    <string name="service_running_title">Notific sta funzionando </string>
+    <string name="click_for_more_info">Clicca qui per maggiori informazioni </string>
+    <string name="hide_notification_title">Nascondi forzatamente la notifica </string>
+    <string name="hide_notification_msg">Sperimentale.Potrebbe non funzionare, o il servizio potrebbe essere disabilitato. \nReboot after changing</string>
+    <string name="after_unlock_title">Mostra dopo lo sblocco </string>
+    <string name="time_saved">Tempo salvato :</string>
+    <string name="type_message_prompt">Digita un messaggio di testo </string>
+    <string name="send">invia </string>
+    <string name="whatsapp_convo_mode">Modalità conversazione Whatsapp </string>
+    <string name="convo_mode_help_msg"> Mostra notifiche separate per ogni contatto. Rende più semplice l’uso della risposta rapida.</string>
+    <string name="double_tap_sleep">Tocca lo schermo due volte per il blocco </string>
+    <string name="double_tap_sleep_detail">Tocca due volte lo spazio vuoto nel pop up per spegnere lo schermo</string>
 
 
     <string-array name="immersive_mode">
@@ -168,7 +168,7 @@
         <item>A schermo spento O nella schermata di sblocco</item>
         <item>A schermo spento</item>
         <item>Nella schermata sblocco</item>
-        <item>A schermo spento E nella schermata di sblocco</item>
+        <item>A schermo spento e nella schermata di sblocco</item>
     </string-array>
 
 </resources>
