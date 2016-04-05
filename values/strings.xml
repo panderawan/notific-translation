@@ -32,15 +32,17 @@
 
 
     <string name="translators" translatable="false">Translations by:
-    \n\nGerman : Christoph Seelbach, Penturon
-    \n\nFrench : Antoine Thenaisy, ZaGaPonG
-    \n\nItalian : Roberto Darko
-    \n\nSlovene : kv1dr
-    \n\nRussian : Victor Lapin
-    \n\nEspañol : Gil Almonte, KoubaK
-    \n\nArabic : JetSub
-    \n\nPortuguese : Hélder Palma
-    \n\nTurkish : Ali ARAS</string>
+        \n\nGerman : Christoph Seelbach, Penturon
+        \n\nFrench : Antoine Thenaisy, ZaGaPonG
+        \n\nItalian : Roberto Darko, Azzurra Sirchio
+        \n\nSlovene : kv1dr
+        \n\nRussian : Victor Lapin
+        \n\nEspañol : Gil Almonte, KoubaK
+        \n\nArabic : JetSub
+        \n\nPortuguese : Hélder Palma
+        \n\nTurkish : Ali ARAS
+        \n\nIndonesian : Faisal Hanif
+    </string>
 
     <string name="about_dialog_header" translatable = "false">Notific 3.3.1 (Paid)</string>
 
