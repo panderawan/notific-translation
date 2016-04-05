@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--================================================-->
+
+    <!--Translatable strings-->
+    <!--From here-->
+
+    <string name="title_section1">Dasbor</string>
+    <string name="title_section2">Daftar Hitam</string>
+    <string name="title_section3">Pengaturan</string>
+    <string name="navigation_drawer_open">Buka drawer navigasi</string>
+    <string name="navigation_drawer_close">Tutup drawer navigasi</string>
+    <string name="action_example">Uji</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="help">Bantuan</string>
+    <string name="about">Tentang</string>
+    <string name="service_name">LayananPemberitahuan</string>
+    <string name="view_notification">Perlihatkan</string>
+    <string name="dismiss_notification">Abaikan</string>
+
+    <string name="main_menu_popup_timeout_title">Waktu habis layar</string>
+    <string name="main_menu_popup_timeout_description">Waktu dalam detik untuk waktu layar menyala. Kosongi atau isi dengan nol untuk menggunakan bawaan sistem</string>
+    <string name="main_menu_popup_proximity_title">Waktu habis sensor jarak</string>
+    <string name="main_menu_popup_proximity_description">Berapa lama sensor jarak akan aktif pada mode saku. Kosongi untuk menggunakan bawaan yaitu 10 detik.</string>
+    <string name="main_menu_popup_orientation_title">Kunci orientasi</string>
+    <string name="main_menu_popup_orientation_description">Jangan ubah orientasi munculan saat perangkat dimiringkan.</string>
+    <string name="about_dialog"><i>Didesain dan dikembangkan oleh :</i>         \nAnanda Bibek Ray.
+        \n\nUntuk bantuan, silahkan kunjungi tautan dibawah</string>
+    <string name="free_version">Fungsi daftar hitam/daftar putih tak tersedia pada Notific versi gratis. Silahkan membeli versi berbayar untuk menggunakannya dan mendukung saya untuk membuat aplikasinya semakin menarik.
+        \n\nTerima Kasih telah menggunakan Notific.</string>
+
+    <string name="warning_blacklist">Anda beralih ke mode daftar hitam. Anda akan menerima SEMUA pemberitahuan, KECUALI yang telah anda tandai.
+        \n\nJANGAN menandai aplikasi jika anda ingin mendapat pemberitahuan dari aplikasi tersebut.</string>
+
+    <string name="warning_whitelist">Anda beralih ke mode daftar putih. Pada mode ini, anda hanya akan menerima pemberitahuan dari aplikasi yang telah ditandai.
+        \n\nINGATLAH untuk MENANDAI aplikasi yang ingin anda aktifkan pemberitahuannya.</string>
+
+    <string name="warning_test_white">Sepertinya anda telah mengaktifkan \"Mode Daftar Putih\". Pada mode ini, anda HANYA akan mendapat pemberitahuan dari aplikasi yang anda tandai.
+        \n\nJika ingin fungsi UJI COBA berhasil, mohon tandai Notific pada daftar putih. </string>
+
+    <string name="warning_test_black">Sepertinya anda telah mendaftar-hitamkan Notific.
+        \n\nJika ingin fungsi UJI COBA berhasil silahkan hapus tanda daftar hitam pada Notific. </string>
+    <string name="notification_settings">Pengaturan pemberitahuan</string>
+    <string name="handle_lowPriority">Perlihatkan pemberitahuan prioritas rendah</string>
+    <string name="handle_lowPriority_msg">Sebagai contoh, kartu cuaca Google Now</string>
+    <string name="expanded_title">Tunjukkan pemberitahuan yang diperluas</string>
+    <string name="expanded_msg">Tunjukkan tombol aksi cepat pada pemberitahuan jika tersedia</string>
+    <string name="sensor_settings_header">Pengaturan sensor</string>
+    <string name="screenOn_title">Nyalakan layar</string>
+    <string name="screenOn_msg">Layar akan menyala jika ada pemberitahuan baru</string>
+    <string name="pocket_title">Aktifkan mode saku</string>
+    <string name="pocket_msg">Layar hanya akan menyala saat dikeluarkan dari saku dengan pemeriksaan jarak</string>
+    <string name="orientation_title">Kunci munculan ke mode potrait</string>
+    <string name="theme_header">Pengaturan Tema</string>
+    <string name="select_theme">Pilih tema</string>
+    <string name="wall_brightness_title">Kecerahan wallpaper</string>
+    <string name="wall_brightness_msg">Pilih 0 untuk latar belakang hitam</string>
+    <string name="slider_padding_title">Penempatan penggeser kanan/kiri</string>
+    <string name="slider_padding_msg">Perbesar jumlah (dalam dp) untuk mengurangi lebar penggeser. Nol atau kosong untuk bawaan</string>
+    <string name="immersive_title">Atur mode imersif</string>
+    <string name="immersive_msg">Pilih bilah sistem yang disembunyikan</string>
+    <string name="troubleshoot_header">Opsi pemecahan masalah</string>
+    <string name="alt_popup_title">Mekanisme munculan lain</string>
+    <string name="alt_popup_msg">Direkomendasikan untuk stabilitas lebih baik namun pemberitahuan akan sedikit terlambat.</string>
+    <string name="calibration_enable">Gunakan kalibrasi sensor kustom</string>
+    <string name="calibration_msg">UGunakan ini jika mode saku bermasalah</string>
+    <string name="calibrate_option">Kalibrasi Sensor</string>
+    <string name="sensor_delay">Penundaan polling sensor</string>
+    <string name="sensor_delay_msg">Perbesar jumlah jika sensor masih tidak bekerja setelah kalibrasi</string>
+    <string name="warning">Peringatan</string>
+    <string name="go_blacklist">Pergi ke pengaturan daftar hitam</string>
+    <string name="test_title_1">Uji Pemberitahuan 1</string>
+    <string name="test_body_1">Tuan Jinggles berkata Hai!</string>
+    <string name="action1">Aksi 1</string>
+    <string name="action2">Aksi 2</string>
+    <string name="test_title_2">Uji pemberitahuan 2</string>
+    <string name="test_body_2">Tuan Jinggles berkata Hai! Lagi!!</string>
+    <string name="quick_action">AksiCepat</string>
+    <string name="free">Versi gratis</string>
+    <string name="play_store">Beli di Play Store</string>
+    <string name="display_mode_title">Perlihatkan munculan saat</string>
+    <string name="permission_text">Klik disini untuk mengatur izin</string>
+    <string name="screenlock_permission_text">Klik disini untuk mengatur izin kunci layar</string>
+    <string name="notif_access_grant">Akses pemberitahuan diizinkan</string>
+    <string name="notif_access_not_grant">Akses pemberitahuan ditolak</string>
+    <string name="service_active">Layanan Latar Belakang aktif</string>
+    <string name="service_inactive">Layanan Latar Belakang nonaktif</string>
+    <string name="working_correct">Aplikasi bekerja dengan baik</string>
+    <string name="permission_again">Berikan izin lagi atau hidupkan ulang perangkat</string>
+    <string name="perm_not_grant">Izin akses pemberitahuan ditolak</string>
+    <string name="lock_perm_ok">Izin layar kunci diizinkan</string>
+    <string name="lock_permission_not_grant">Izin layar kunci ditolak</string>
+    <string name="lock_msg_1">Dibutuhkan untuk layar kunci</string>
+    <string name="lock_msg_2">Diperlukan untuk mengunci layar otomatis setelah pengabaian pemberitahuan terakhir</string>
+    <string name="lock_msg_big">Diperlukan oleh Notific untuk mengunci layar otomatis setelah mengabaikan aplikasi terakhir dalam daftar</string>
+    <string name="blacklist_mode">Mode daftar putih</string>
+    <string name="whitelist_mode">Mode daftar hitam</string>
+    <string name="night_title">Aktifkan Mode malam</string>
+    <string name="night_msg">Notific tidak akan aktif di waktu yang ditentukan</string>
+    <string name="night_start">Mode malam dimulai pada</string>
+    <string name="night_end">Mode malam berakhir pada</string>
+    <string name="dont_change">Jangan ubah</string>
+    <string name="got_it">Mengerti</string>
+    <string name="developer">Pengembang</string>
+    <string name="links">Tautan</string>
+    <string name="credits">Kredit</string>
+    <string name="blur_title">Buramkan latar belakang</string>
+    <string name="blur_msg">Ini akan menambah penggunaan memori secara signifikan</string>
+    <string name="show_in_recent_title">Perlihatkan di layar aplikasi terakhir</string>
+    <string name="show_in_recent_msg">Matikan jika munculan tertempel di wallpaper</string>
+    <string name="misc">Lainnya</string>
+    <string name="action_btn_unlock_title">Buka tombol aksi</string>
+    <string name="action_btn_unlock_msg">Buka kunci pengaman saat tombol aksi pemberitahuan ditekan. [Hanya untuk tema Android Wear]</string>
+    <string name="auto_off_msg">Matikan layar setelah mengabaikan pemberitahuan terakhir</string>
+    <string name="auto_off_title">Layar mati otomatis</string>
+    <string name="title_section_privacy">Mode Privasi</string>
+    <string name="privacy_mode_msg">Tandai aplikasi yang isis pemberitahuannya tidak ingin diperlihatkan</string>
+    <string name="new_notification">Pemberitahuan Baru</string>
+    <string name="content_not_shown">Konten tidak terlihat</string>
+    <string name="show_user_pic_msg">Perlihatkan gambar pengguna</string>
+    <string name="wear_theme_only">Hanya untuk tema Android Wear</string>
+    <string name="show_title_in_privacy_mode">Perlihatkan judul di mode privasi</string>
+    <string name="smart_screen_off_title">Mati Auto Cerdas</string>
+    <string name="smart_screen_off_msg">Jangan terapkan matikan otomatis jika layar dibuka oleh pengguna (30dtk setelah pemberitahuan) </string>
+    <string name="disable_admin">(Opsi hapus instalasi diblokir) Klik untuk menonaktifkan administrator perangkat untuk hapus instalasi</string>
+    <string name="enable_wakelock_title">Aktifkan kuncibangun</string>
+    <string name="enable_wakelock_msg">Matikan jika terkadang layar tidak mati otomatis</string>
+    <string name="long_press_title">Tunjukkan konten saat tekan lama</string>
+    <string name="long_press_summary">Tunjukkan rincian pemberitahuan pada mode privasi saat pemberitahuan ditekan lama</string>
+    <string name="repeat_notification_heading">Notifikasi Berulang</string>
+    <string name="repeat_notification_enable">Aktifkan Notifikasi Berulang</string>
+    <string name="repeat_notification_enable_desc">Izinkan Notific menampilkan ulang pemberitahuan yang belum anda baca</string>
+    <string name="repeat_interval">Interval pengulangan</string>
+    <string name="repeat_interval_desc">Jarak waktu dalam menit untuk menampilkan pemberitahuan secara berulang (bawaan: setiap 5mnt)</string>
+    <string name="stop_repeat_time">Berhenti mengulang saat</string>
+    <string name="stop_repeat_time_desc">Waktu dalam menit saat pemberitahuan berhenti mengulang(bawaan: 30mnt)</string>
+    <string name="upgrade_to_pro_msg">Jika anda menikmati versi gratis, mohon pertimbangkan membeli versi Pro dan mendukung pengembang serta dapat menggunakan Pengaturan Perlindungan Privasi </string>
+    <string name="no">Tidak</string>
+    <string name="go_play_store">Pergi ke Play Store</string>
+    <string name="num_notifications_displayed_banner_msg">Pemberitahuan ditampilkan</string>
+    <string name="uninstall">Hapus Pemasangan</string>
+    <string name="uninstall_msg">Admin Perangkat dimatikan. Sekarang anda bisa menghapus pemasangan dengan normal.</string>
+    <string name="run_foreground_title">Jalankan layanan di latar depan</string>
+    <string name="run_foreground_msg">Pemberitahuan persisten ditampilkan. Diperlukan untuk menjaga layanan berjalan jika sistem operasi menghentikan paksa layanan</string>
+    <string name="service_running_title">Layanan Notific berjalan</string>
+    <string name="click_for_more_info">Klik untuk informasi lebih lanjut</string>
+    <string name="hide_notification_title">Paksa sembunyikan pemberitahuan</string>
+    <string name="hide_notification_msg">Eksperimental. Mungkin tak bekerja atau layanan dihentikan. \nHidupkan ulang setelah mengubah</string>
+    <string name="after_unlock_title">Setelah membuka layarkunci, tunjukkan:</string>
+    <string name="time_saved">Waktu disimpan :</string>
+    <string name="type_message_prompt">Tulis pesan</string>
+    <string name="send">Kirim</string>
+    <string name="whatsapp_convo_mode">Mode obrolan WhatsApp</string>
+    <string name="convo_mode_help_msg">Pisahkan pemberitahuan untuk setiap kontak. Membuatnya mudah untuk menggunakan fitur balas cepat Notific</string>
+    <string name="double_tap_sleep">Ketuk dua kali untuk matikan layar</string>
+    <string name="double_tap_sleep_detail">Ketuk dua kali pada tempat kosong di munculan untuk matikan layar</string>
+
+
+    <string-array name="immersive_mode">
+        <item>Dimatikan</item>
+        <item>Sembunyikan bilah navigasi</item>
+        <item>Sembunyikan bilah status</item>
+        <item>Hide both</item>
+    </string-array>
+
+    <string-array name="display_mode">
+        <item>Layar mati ATAU pada layar kunci</item>
+        <item>Layar mati</item>
+        <item>Pada layar kunci</item>
+        <item>Layar mati DAN layar kunci</item>
+    </string-array>
+
+    <string-array name="after_unlock_mode" translatable="false">
+        <item>If unseen</item>
+        <item>Never</item>
+    </string-array>
+
+</resources>
