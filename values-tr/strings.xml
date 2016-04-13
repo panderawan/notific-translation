@@ -152,6 +152,8 @@
     <string-array name="after_unlock_mode">
         <item>If unseen</item>
         <item>Never</item>
+        <item>If notification present</item>
+        <item>Always</item>
     </string-array>
 
     <string name="uninstall_msg">Device Admin has been disabled. Now you can uninstall the app normally.</string>
@@ -170,4 +172,24 @@
     <string name="convo_mode_help_msg">Show separate notification for every contact. Makes it easy to use Notific direct reply feature</string>
     <string name="double_tap_sleep">Double tap to sleep</string>
     <string name="double_tap_sleep_detail">Double tap empty space on popup screen to turn off screen</string>
+    <string name="lockscreen_disabled">Lockscreen disabled</string>
+    <string name="lockscreen_enabled">Lockscreen enabled</string>
+    <string name="theme_unsupported">Theme not supported</string>
+    <string name="theme_unsupported_msg">Please use \'Android Wear\' or \'Ambient Dark\' theme to enable Lockscreen</string>
+    <string name="uninstall_warning_condition">Remember to disable this option when you want to uninstall Notific.</string>
+    <string name="dont_show_popup_title">Don\'t show pending popups on manual unlock</string>
+    <string name="dont_show_popup_msg">Popup is shown only when notification comes. This setting works only if Lockscreen is not set.</string>
+    <string name="android_wear_theme_settings">Android Wear theme settings</string>
+    <string name="Notification_title_size">Notification title font size</string>
+    <string name="notification_body_size">Notification body font size</string>
+    <string name="clock_size">Clock font size</string>
+    <string name="clock_format">12hr format</string>
+    <string name="clock_am_pm">Show AM / PM</string>
+    <string name="reply_settings">Reply Settings</string>
+    <string name="theme_custom">THEME CUSTOMIZATIONS</string>
+    <string name="cover_the_proximity_sensor_with_your_hand_and_click_the_button">Cover the proximity sensor with your hand and click the button</string>
+    <string name="set_covered_value">Set covered value</string>
+    <string name="uncover_the_proximity_sensor_and_click_the_button">Uncover the proximity sensor and click the button</string>
+    <string name="set_uncovered_value">Set uncovered value</string>
+    <string name="show_system_lockscreen_if_no_notifications">Show system lockscreen if no notifications</string>
 </resources>
