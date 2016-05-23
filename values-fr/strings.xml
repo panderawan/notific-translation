@@ -129,7 +129,7 @@
     <string name="repeat_notification_enable">Activer la notification récurrente</string>
     <string name="repeat_notification_enable_desc">Permettre à Notific de faire réapparaître les popups de notification si vous ne les avez pas déjà regardées</string>
     <string name="repeat_interval">Intervalle de réapparition</string>
-    <string name="repeat_interval_desc">Intervalle en minutes après lesquelles le popup sera affiché à nouveau (par défaut : toutes les 5mins)</string>
+    <string name="repeat_interval_desc">Intervalle en minutes après lequel le popup sera affiché à nouveau (par défaut : toutes les 5mins)</string>
     <string name="stop_repeat_time">Stopper la réapparition</string>
     <string name="stop_repeat_time_desc">Temps en minutes pour stopper la réapparition des notifications (par défaut : 30mins)</string>
     <string name="upgrade_to_pro_msg">Si vous appréciez la version gratuite, veuillez considérer une mise à jour vers la version Pro pour supporter le développeur et activer les paramètres Privacy Guard</string>
