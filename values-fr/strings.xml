@@ -16,7 +16,7 @@
     <string name="dismiss_notification">Effacer</string>
 
     <string name="main_menu_popup_timeout_title">Veille de l\'écran</string>
-    <string name="main_menu_popup_timeout_description">Temps en secondes ou l\'écran reste allumé. Laissez ce champ vide ou nul pour appliquer les paramètres par défaut.</string>
+    <string name="main_menu_popup_timeout_description">Temps en secondes où l\'écran reste allumé. Laissez ce champ vide ou nul pour appliquer les paramètres par défaut.</string>
     <string name="main_menu_popup_proximity_title">Délai du capteur de proximité</string>
     <string name="main_menu_popup_proximity_description">Combien de temps le capteur de proximité sera actif en mode "poche". Laissez ce champ vide pour 10sec par défaut. </string>
     <string name="main_menu_popup_orientation_title">Verrouiller l\'orientation</string>
@@ -27,13 +27,13 @@
     <string name="free_version">Liste noire / Liste blanche cette fonction n\'est pas disponible dans la version gratuite de Notific. S\'il vous plaît mettez à niveau vers la version payante pour utiliser cette fonction et pour m\'encourager à faire progresser votre application préférée.
         \n\nMerci d\'utiliser Notific.</string>
 
-    <string name="warning_blacklist"> Créer votre propre liste noire. Dans ce mode, vous obtiendrez la notification Notific pour TOUTES les applications, SAUF ceux que vous avez marqués. 
-        \n\nNE COCHER pas les applications dont vous voulez recevoir les notifications.</string>
+    <string name="warning_blacklist"> Créer votre propre liste noire. Dans ce mode, vous obtiendrez la notification Notific pour TOUTES les applications, SAUF celles que vous avez marqué. 
+        \n\nNE PAS COCHER les applications dont vous voulez recevoir les notifications.</string>
 
-    <string name="warning_whitelist">Créer votre propre liste blanche. Dans ce mode, vous obtiendrez la notification Notific UNIQUEMENT pour ce que vous avez marqué.
+    <string name="warning_whitelist">Créer votre propre liste blanche. Dans ce mode, vous obtiendrez la notification Notific UNIQUEMENT pour celles que vous avez marqué.
         \n\nCOCHER IMPERATIVEMENT les applications dont vous voulez recevoir des notifications.</string>
 
-    <string name="warning_test_white"> Vous venez d\'activer votre \"liste blanche\". Avec ce mode, vous obtiendrez la notification Notific uniquement pour les applications que vous avez marquées.
+    <string name="warning_test_white"> Vous venez d\'activer votre \"liste blanche\". Avec ce mode, vous obtiendrez la notification Notific uniquement pour les applications que vous avez marqué.
         \n\nSi vous voulez que la fonction TEST fonctionne, vous devrez cocher Notific dans votre liste blanche. </string>
 
     <string name="warning_test_black">Vous venez d\'activer votre \"liste noire\".
@@ -68,7 +68,7 @@
     <string name="warning">Attention</string>
     <string name="go_blacklist">Configurer la liste noire</string>
     <string name="test_title_1">Essai notification 1</string>
-    <string name="test_body_1">Mr. Jingles dis bonjour !</string>
+    <string name="test_body_1">Mr. Jingles dit bonjour !</string>
     <string name="action1">Action 1</string>
     <string name="action2">Action 2</string>
     <string name="test_title_2">Essai notification 2</string>
@@ -76,9 +76,9 @@
     <string name="quick_action">Action rapide</string>
     <string name="free">Version gratuite</string>
     <string name="play_store">Mise à jour via le Play Store</string>
-    <string name="display_mode_title">Afficher popup quand</string>
+    <string name="display_mode_title">Afficher popups quand</string>
     <string name="permission_text">Appuyez ici pour configurer les autorisations</string>
-    <string name="screenlock_permission_text">Appuyez ici pour configurer l\'autorisation de l\'écran de verrouilage</string>
+    <string name="screenlock_permission_text">Appuyez ici pour configurer l\'autorisation de l\'écran de verrouillage</string>
     <string name="notif_access_grant">Accès aux notifications autorisé</string>
     <string name="notif_access_not_grant">Accès aux notifications non autorisé</string>
     <string name="service_active">Service en arrière plan activé</string>
@@ -105,7 +105,7 @@
     <string name="blur_title">Fond d\'écran flouté</string>
     <string name="blur_msg">Cela augmentera considérablement l\'utilisation mémoire</string>
     <string name="show_in_recent_title">Afficher à l\'écran \"applications récentes\"</string>
-    <string name="show_in_recent_msg">Activer cela si vous avez un bug du fond d\'écran</string>
+    <string name="show_in_recent_msg">A activer si vous avez un bug de fond d\'écran</string>
     <string name="misc">Autres</string>
     <string name="action_btn_unlock_title">Action bouton de déverrouillage</string>
     <string name="action_btn_unlock_msg">Déverrouiller quand les boutons d\'action de notification sont pressés. [uniquement pour le thème Android Wear]</string>
@@ -126,24 +126,24 @@
     <string name="long_press_title">Afficher le contenu sur appui long</string>
     <string name="long_press_summary">Afficher le détail des notifications en mode privé lors d\'un appui long sur la notification</string>
     <string name="repeat_notification_heading">Notifications récurrentes</string>
-    <string name="repeat_notification_enable">Activer la notification récurrent</string>
-    <string name="repeat_notification_enable_desc">Permettre à Notific de faire réapparaître les popups de notification si vous ne les avez déjà pas regardées</string>
+    <string name="repeat_notification_enable">Activer la notification récurrente</string>
+    <string name="repeat_notification_enable_desc">Permettre à Notific de faire réapparaître les popups de notification si vous ne les avez pas déjà regardées</string>
     <string name="repeat_interval">Intervalle de réapparition</string>
-    <string name="repeat_interval_desc">Temps d\'intervalle en minutes après lesquelles la popup sera affichée à nouveau (par défaut : toutes les 5mins)</string>
+    <string name="repeat_interval_desc">Intervalle en minutes après lesquelles le popup sera affiché à nouveau (par défaut : toutes les 5mins)</string>
     <string name="stop_repeat_time">Stopper la réapparition</string>
     <string name="stop_repeat_time_desc">Temps en minutes pour stopper la réapparition des notifications (par défaut : 30mins)</string>
-    <string name="upgrade_to_pro_msg">Si vous appréciez la version gratuite, veuillez considérer une mise à jour vers la version Pro pour supporter le développer et activer les paramètres Privacy Guard</string>
+    <string name="upgrade_to_pro_msg">Si vous appréciez la version gratuite, veuillez considérer une mise à jour vers la version Pro pour supporter le développeur et activer les paramètres Privacy Guard</string>
     <string name="no">Non</string>
     <string name="go_play_store">Aller sur le Play Store</string>
     <string name="num_notifications_displayed_banner_msg">Notifications affichées</string>
     <string name="uninstall">Désinstaller</string>
-    <string name="uninstall_msg">L\'administrateur de l\'appareil a été désactivé. Maintenant, vous pouvez désactiver l\'application normalement.</string>
+    <string name="uninstall_msg">L\'administrateur de l\'appareil a été désactivé. Vous pouvez désormais désinstaller l\'application normalement.</string>
     <string name="run_foreground_title">Lancer le service en avant-plan</string>
     <string name="run_foreground_msg">La notification persistence est affichée. Cela est requis si votre OS la tue fréquemment</string>
     <string name="service_running_title">Le service Notific fonctionne</string>
     <string name="click_for_more_info">Appuyer pour plus d\'informations</string>
     <string name="hide_notification_title">Forcer la notification masquée</string>
-    <string name="hide_notification_msg">Expérimental. Peut ne pas fonctionner, ou le service continue à être tué. \nRedémarrez après modification</string>
+    <string name="hide_notification_msg">Expérimental. Peut ne pas fonctionner et le service peut continuer d'être tué. \nRedémarrez après modification</string>
     <string name="after_unlock_title">Après déverrouillage, afficher</string>
     <string name="time_saved">Temps économisé :</string>
     <string name="type_message_prompt">Tapez un message</string>
@@ -151,14 +151,14 @@
     <string name="whatsapp_convo_mode">Mode conversation Whatsapp</string>
     <string name="convo_mode_help_msg">Afficher des notifications séparées pour chaque contact. Pratique pour l\'utilisation de la réponse rapide Notific</string>
     <string name="double_tap_sleep">Double appui pour endormir</string>
-    <string name="double_tap_sleep_detail">Double appui sur un espace vide sur l\'écran popup pour éteindre l\'écran</string>
+    <string name="double_tap_sleep_detail">Double appui sur un espace vide de l\'écran popup pour éteindre l\'écran</string>
     <string name="lockscreen_disabled">Écran de déverrouillage désactivé</string>
     <string name="lockscreen_enabled">Écran de déverrouillage activé</string>
     <string name="theme_unsupported">Thème non supporté</string>
     <string name="theme_unsupported_msg">Veuillez utiliser le thème \'Android Wear\' ou \'Ambient Dark\' pour activer l\'écran de verrouillage</string>
     <string name="uninstall_warning_condition">Pensez à désactiver cette option si vous souhaitez désinstaller Notific.</string>
-    <string name="dont_show_popup_title">Ne pas afficher les popups en attente sur le déverrouillage manuel</string>
-    <string name="dont_show_popup_msg">La popup est affichée seulement quand elle arrive. Cette fonction marche seulement si aucun écran de verrouillage n\'est défini.</string>
+    <string name="dont_show_popup_title">Ne pas afficher les popups en attente en mode de déverrouillage manuel</string>
+    <string name="dont_show_popup_msg">Le popup est affichée seulement quand une notification arrive. Cette fonction marche seulement si aucun écran de verrouillage n\'est défini.</string>
     <string name="android_wear_theme_settings">Paramètres du thème Android Wear</string>
     <string name="Notification_title_size">Taille du titre de la police de notification</string>
     <string name="notification_body_size">Taille de la police du corps de texte de notification</string>
@@ -189,7 +189,7 @@
     </string-array>
 
     <string-array name="after_unlock_mode">
-        <item>Si invisble</item>
+        <item>Si invisible</item>
         <item>Jamais</item>
         <item>Si notification présente</item>
         <item>Toujours</item>
